@@ -1,0 +1,21 @@
+{
+  "name": "asn-ip",
+  "version": "1.0.0",
+  "description": "IPv4 and IPv6 subnets (e.g. 100.2.30.0/22) organized by announcing autonomous systems. The subnets are aggregated to save space.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./bin/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umkus/asn-ip.git"
+  },
+  "dependencies": {
+    "ip-cidr": "^3.0.4"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Umkus/asn-ip/issues"
+  },
+  "homepage": "https://github.com/Umkus/asn-ip#readme"
+}
