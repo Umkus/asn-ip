@@ -1,0 +1,11 @@
+{
+  "asn": 149485,
+  "handle": "MONOCLOUDPTYLTD-AP",
+  "description": "MonoCloud Pty Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2400:56a0::/32"
+    ]
+  }
+}

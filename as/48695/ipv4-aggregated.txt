@@ -1,6 +1,7 @@
 # AS48695 (ATHEEB)
 # Etihad Atheeb Telecom Company
 #
+37.99.150.0/24
 37.99.185.0/24
 37.99.186.0/24
 46.184.0.0/19

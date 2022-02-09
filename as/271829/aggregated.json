@@ -1,0 +1,12 @@
+{
+  "asn": 271829,
+  "handle": "ZUMA-COMUNICACIONES-DE",
+  "description": "ZUMA COMUNICACIONES DE COLOMBIA SAS",
+  "subnets": {
+    "ipv4": [
+      "181.233.144.0/23",
+      "181.233.146.0/24"
+    ],
+    "ipv6": []
+  }
+}

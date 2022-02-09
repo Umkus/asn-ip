@@ -4,11 +4,12 @@
   "description": "Compuservice Empreendimentos Ltda",
   "subnets": {
     "ipv4": [
+      "38.41.112.0/21",
       "170.79.192.0/22",
       "177.131.16.0/20"
     ],
     "ipv6": [
-      "2804:2d80::/32"
+      "2804:2d80:aa00::/40"
     ]
   }
 }
