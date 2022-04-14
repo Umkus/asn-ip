@@ -4,8 +4,7 @@
   "description": "SingTel Optus Pty Ltd",
   "subnets": {
     "ipv4": [
-      "203.20.208.0/21",
-      "203.20.216.0/22"
+      "203.20.218.0/23"
     ],
     "ipv6": []
   }

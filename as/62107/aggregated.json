@@ -1,0 +1,11 @@
+{
+  "asn": 62107,
+  "handle": "GRASSROOTS",
+  "description": "GrassRoots Limited",
+  "subnets": {
+    "ipv4": [
+      "193.107.23.0/24"
+    ],
+    "ipv6": []
+  }
+}

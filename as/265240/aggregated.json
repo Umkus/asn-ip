@@ -1,11 +1,10 @@
 {
   "asn": 265240,
-  "handle": "ALMAR-TELECOM",
-  "description": "ALMAR TELECOM",
+  "handle": "NET-GUIBOR",
+  "description": "NET GUIBOR",
   "subnets": {
     "ipv4": [
-      "168.0.0.0/24",
-      "168.0.2.0/24"
+      "168.0.0.0/22"
     ],
     "ipv6": [
       "2804:2cbc::/35"

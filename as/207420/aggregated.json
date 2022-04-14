@@ -1,0 +1,12 @@
+{
+  "asn": 207420,
+  "handle": "CENTAURI-SOLUTIONS",
+  "description": "Christopher MacNaughton",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a12:84c0::/46",
+      "2a12:84c0:4::/48"
+    ]
+  }
+}

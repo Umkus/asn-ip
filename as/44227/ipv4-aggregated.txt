@@ -1,4 +1,4 @@
 # AS44227 (TN-CUSTOM)
-# JustNet GmbH
+# Stefan Wild
 #
-79.99.236.0/24
+156.67.15.0/24

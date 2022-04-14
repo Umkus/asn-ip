@@ -1,13 +1,13 @@
 {
   "asn": 267958,
-  "handle": "H1-TELECOMUNICAOES-LTDA",
-  "description": "H1 TELECOMUNICAOES LTDA",
+  "handle": "H1-TELECOMUNICAES-LIMITADA",
+  "description": "H1 TELECOMUNICAES LIMITADA",
   "subnets": {
     "ipv4": [
       "45.166.164.0/22"
     ],
     "ipv6": [
-      "2804:55d0::/32"
+      "2804:55d0::/37"
     ]
   }
 }

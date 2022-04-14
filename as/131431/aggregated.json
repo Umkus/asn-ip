@@ -1,0 +1,9 @@
+{
+  "asn": 131431,
+  "handle": "VNNIC-4BYTE-ASBLOCK-AP",
+  "description": "VNNIC-4byte-ASBLOCK-AP",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

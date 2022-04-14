@@ -1,0 +1,13 @@
+{
+  "asn": 208447,
+  "handle": "FASTMILE",
+  "description": "LLC FASTMILE",
+  "subnets": {
+    "ipv4": [
+      "194.85.64.0/22"
+    ],
+    "ipv6": [
+      "2001:678:9e8::/48"
+    ]
+  }
+}

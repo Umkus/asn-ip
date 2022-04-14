@@ -1,0 +1,9 @@
+{
+  "asn": 47899,
+  "handle": "TMMTS",
+  "description": "MTS PJSC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

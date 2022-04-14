@@ -1,11 +1,10 @@
 {
   "asn": 207566,
   "handle": "HOSTWAY",
-  "description": "HOSTWAY LLC",
+  "description": "Chang Way Technologies Co. Limited",
   "subnets": {
     "ipv4": [
       "91.241.19.0/24",
-      "193.32.164.0/22",
       "193.56.146.0/24"
     ],
     "ipv6": []

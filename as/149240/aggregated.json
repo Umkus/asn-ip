@@ -1,9 +1,12 @@
 {
   "asn": 149240,
   "handle": "MNPL-IN",
-  "description": "ADVANCE NETWORK SOLUTIONS PRIVATE LIMITED",
+  "description": "Megatel Networks Private Limited",
   "subnets": {
     "ipv4": [
+      "103.117.33.0/24",
+      "103.117.34.0/23",
+      "103.170.1.0/24",
       "103.178.177.0/24"
     ],
     "ipv6": []

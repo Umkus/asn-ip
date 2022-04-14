@@ -1,0 +1,12 @@
+{
+  "asn": 209956,
+  "handle": "TELKOTURK",
+  "description": "Telkoturk Iletisim Hizmetleri A.S.",
+  "subnets": {
+    "ipv4": [
+      "213.238.187.0/24",
+      "217.119.134.0/24"
+    ],
+    "ipv6": []
+  }
+}

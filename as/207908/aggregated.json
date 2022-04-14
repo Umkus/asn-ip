@@ -1,0 +1,13 @@
+{
+  "asn": 207908,
+  "handle": "MATTHIAS-MERKEL",
+  "description": "Matthias Merkel",
+  "subnets": {
+    "ipv4": [
+      "45.151.215.0/24"
+    ],
+    "ipv6": [
+      "2001:678:d84::/48"
+    ]
+  }
+}

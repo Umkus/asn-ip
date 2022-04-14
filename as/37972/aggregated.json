@@ -1,11 +1,9 @@
 {
   "asn": 37972,
-  "handle": "LSHIY-FIBER",
-  "description": "LSHIY Network Technology Limited",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2404:f4c0:1100::/48"
-    ]
+    "ipv6": []
   }
 }

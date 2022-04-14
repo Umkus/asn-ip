@@ -1,0 +1,12 @@
+{
+  "asn": 37114,
+  "handle": "VODACOM-BUSINESS",
+  "description": "Vodacom Business Africa Group (PTY) Ltd",
+  "subnets": {
+    "ipv4": [
+      "212.96.17.0/24",
+      "212.96.30.0/24"
+    ],
+    "ipv6": []
+  }
+}

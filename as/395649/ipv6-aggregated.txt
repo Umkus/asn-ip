@@ -1,4 +1,4 @@
 # AS395649 (SCHWARTZNET)
 # Schwartz Networks Limited Liability Company
 #
-2604:7c40::/36
+2604:7c40::/40

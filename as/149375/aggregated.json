@@ -1,0 +1,13 @@
+{
+  "asn": 149375,
+  "handle": "IDNIC-KOMINFOSERANGKAB-ID",
+  "description": "Dinas Komunikasi Informatika Persandian dan Statistik Kabupaten Serang",
+  "subnets": {
+    "ipv4": [
+      "103.179.214.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:6b40::/48"
+    ]
+  }
+}

@@ -3,9 +3,7 @@
   "handle": "TUPNET",
   "description": "DART INDUSTRIES INC.",
   "subnets": {
-    "ipv4": [
-      "159.234.0.0/16"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

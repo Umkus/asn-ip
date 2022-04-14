@@ -1,10 +1,10 @@
 {
   "asn": 50797,
-  "handle": "ELIXE",
+  "handle": "NORD",
   "description": "Elixe Co.,Ltd",
   "subnets": {
     "ipv4": [
-      "92.255.44.0/22"
+      "92.255.46.0/23"
     ],
     "ipv6": []
   }

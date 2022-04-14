@@ -1,11 +1,9 @@
 {
   "asn": 62437,
-  "handle": "DCC",
-  "description": "Datacenter Consulting BVBA",
+  "handle": "UNIXSOLUTIONS2",
+  "description": "Unix-Solutions BVBA",
   "subnets": {
-    "ipv4": [
-      "185.35.164.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

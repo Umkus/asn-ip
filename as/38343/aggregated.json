@@ -1,0 +1,9 @@
+{
+  "asn": 38343,
+  "handle": "CNNIC-OCCN-AP",
+  "description": "Shanghai Overseas Chinese Communication Network Co.,ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

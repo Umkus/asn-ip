@@ -4,7 +4,7 @@
   "description": "TSURUHANE JAPAN LTD.",
   "subnets": {
     "ipv4": [
-      "154.223.139.0/24"
+      "154.223.174.0/24"
     ],
     "ipv6": []
   }

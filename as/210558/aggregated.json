@@ -1,0 +1,13 @@
+{
+  "asn": 210558,
+  "handle": "SERVICES-1337-GMBH",
+  "description": "1337 Services GmbH",
+  "subnets": {
+    "ipv4": [
+      "2.58.56.0/24",
+      "45.154.98.0/24",
+      "194.26.192.0/24"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,4 +1,4 @@
-# AS140506 (RESERVED)
-# APNIC ASN block
+# AS140506 (ZGN-AP)
+# Ningbo Dahuamao Information Technology Co Ltd
 #
-2602:feda:ae1::/48
+2406:840:f62f::/48

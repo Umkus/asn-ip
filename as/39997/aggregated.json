@@ -1,0 +1,9 @@
+{
+  "asn": 39997,
+  "handle": "GLIC",
+  "description": "Guardian Life Insurance Company Of America",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

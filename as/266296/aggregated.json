@@ -1,10 +1,11 @@
 {
   "asn": 266296,
-  "handle": "MAX-TELECOM-LTDA-ME",
-  "description": "MAX TELECOM LTDA ME",
+  "handle": "WM-INFOTEC-SOLUTION-LTDA",
+  "description": "WM INFOTEC SOLUTION LTDA",
   "subnets": {
     "ipv4": [
-      "170.79.92.0/23"
+      "170.79.92.0/23",
+      "170.79.94.0/24"
     ],
     "ipv6": [
       "2804:359c:6000::/35"

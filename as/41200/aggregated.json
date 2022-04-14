@@ -1,11 +1,9 @@
 {
   "asn": 41200,
-  "handle": "BGSOFT",
-  "description": "BG SOFT SRL",
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
   "subnets": {
-    "ipv4": [
-      "80.96.2.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,13 +1,9 @@
 {
   "asn": 203991,
   "handle": "WISPEUROPE",
-  "description": "WISP EUROPE S.L",
+  "description": "AVATEL TELECOM, SA",
   "subnets": {
-    "ipv4": [
-      "185.131.12.0/22",
-      "185.215.3.0/24",
-      "193.30.12.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

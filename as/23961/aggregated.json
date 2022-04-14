@@ -1,9 +1,11 @@
 {
   "asn": 23961,
-  "handle": "CAT-HK",
-  "description": "Cat Networks Hong Kong Limited",
+  "handle": "MNI-AP",
+  "description": "Misaka Network, Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "194.104.146.0/23"
+    ],
     "ipv6": [
       "2403:5180::/48"
     ]

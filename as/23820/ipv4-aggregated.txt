@@ -1,5 +1,5 @@
 # AS23820 (RAKUTEN)
-# Rakuten,Inc.
+# Rakuten Group, Inc.
 #
 103.136.152.0/22
 119.63.144.0/21

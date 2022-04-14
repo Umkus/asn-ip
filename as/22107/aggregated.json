@@ -1,7 +1,7 @@
 {
   "asn": 22107,
-  "handle": "COLLABNET",
-  "description": "CollabNet",
+  "handle": "DIGITALAI",
+  "description": "Digital.ai Software, Inc.",
   "subnets": {
     "ipv4": [
       "204.11.125.0/24",

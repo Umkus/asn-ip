@@ -1,15 +1,13 @@
 {
   "asn": 12459,
-  "handle": "UNITED",
-  "description": "UNITED INTERNET LTD.",
+  "handle": "NETOPS-CEE",
+  "description": "NETOPS LTD.",
   "subnets": {
     "ipv4": [
       "185.119.88.0/23",
       "185.119.90.0/24",
       "185.241.212.0/24"
     ],
-    "ipv6": [
-      "2a06:97c0:1::/48"
-    ]
+    "ipv6": []
   }
 }

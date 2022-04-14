@@ -4,7 +4,7 @@
   "description": "General Partnership Compas - Karadjov \u0026 Co.",
   "subnets": {
     "ipv4": [
-      "109.160.118.0/24"
+      "91.193.200.0/22"
     ],
     "ipv6": []
   }

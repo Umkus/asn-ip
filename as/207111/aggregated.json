@@ -1,11 +1,11 @@
 {
   "asn": 207111,
-  "handle": "PREUSS",
+  "handle": "FREIFUNK-ENSE",
   "description": "Rene Preuss",
   "subnets": {
     "ipv4": [],
     "ipv6": [
-      "2001:67c:770::/48"
+      "2a0e:b107:1901::/48"
     ]
   }
 }

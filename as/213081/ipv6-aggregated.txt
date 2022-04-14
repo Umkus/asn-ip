@@ -1,9 +1,12 @@
-# AS213081 (UNGLEICH-DCL3)
+# AS213081 (UNGLEICH-PLACE10)
 # ungleich glarus ag
 #
+2a0a:e5c0:1::/48
 2a0a:e5c0:10::/48
-2a0a:e5c0:13::/48
+2a0a:e5c0:12::/48
 2a0a:e5c0:16::/48
+2a0a:e5c0:19::/48
 2a0a:e5c0:22::/48
+2a0a:e5c0:26::/48
 2a0a:e5c0:2a::/47
-2a0a:e5c0:2c::/48
+2a0a:e5c1:c00::/40

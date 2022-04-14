@@ -1,0 +1,11 @@
+{
+  "asn": 18665,
+  "handle": "CALGARY-DC",
+  "description": "2227155 Alberta Inc.",
+  "subnets": {
+    "ipv4": [
+      "204.10.116.0/22"
+    ],
+    "ipv6": []
+  }
+}

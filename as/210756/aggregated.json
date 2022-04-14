@@ -1,10 +1,11 @@
 {
   "asn": 210756,
-  "handle": "GCORE-RU",
-  "description": "G-Core Rus LLC",
+  "handle": "EDGECENTERLLC",
+  "description": "EdgeCenter LLC",
   "subnets": {
     "ipv4": [
-      "193.17.93.0/24"
+      "95.181.179.0/24",
+      "95.181.181.0/24"
     ],
     "ipv6": []
   }

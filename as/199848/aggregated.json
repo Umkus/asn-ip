@@ -1,10 +1,10 @@
 {
   "asn": 199848,
   "handle": "SYSTEMATIC",
-  "description": "Systematic Software Engineering A/S",
+  "description": "SYSTEMATIC A/S",
   "subnets": {
     "ipv4": [
-      "185.43.140.0/22"
+      "185.43.140.0/23"
     ],
     "ipv6": []
   }

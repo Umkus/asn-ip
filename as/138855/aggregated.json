@@ -1,0 +1,9 @@
+{
+  "asn": 138855,
+  "handle": "IFORTE-ISP-ID",
+  "description": "PT iForte Solusi Infotek",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

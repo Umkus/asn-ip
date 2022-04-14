@@ -1,4 +1,5 @@
 # AS49321 (ITGRATION)
 # ITgration GmbH
 #
+62.3.43.0/24
 185.128.225.0/24

@@ -1,0 +1,13 @@
+{
+  "asn": 272597,
+  "handle": "A-T-MAGALHAES",
+  "description": "A T MAGALHAES",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:85bc::/36",
+      "2804:85bc:4000::/36",
+      "2804:85bc:8000::/36"
+    ]
+  }
+}
