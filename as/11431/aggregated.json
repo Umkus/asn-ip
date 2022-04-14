@@ -1,0 +1,9 @@
+{
+  "asn": 11431,
+  "handle": "NCLEO-DE-INF",
+  "description": "Ncleo de Inf. e Coord. do Ponto BR - NIC.BR",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

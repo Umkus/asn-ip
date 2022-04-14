@@ -1,7 +1,7 @@
 {
   "asn": 54182,
   "handle": "AXIA-CONNECT",
-  "description": "Axia Connect Limited",
+  "description": "Axia FibreNet Ltd.",
   "subnets": {
     "ipv4": [
       "45.59.72.0/21",
@@ -19,6 +19,8 @@
       "204.209.28.0/23",
       "206.126.255.0/24",
       "207.182.0.0/20",
+      "208.78.124.0/23",
+      "208.78.126.0/24",
       "209.206.112.0/21"
     ],
     "ipv6": [

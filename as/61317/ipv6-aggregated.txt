@@ -1,5 +1,5 @@
 # AS61317 (ASDETUK)
-# Digital Energy Technologies Ltd.
+# IPXO UK LIMITED
 #
 2001:67c:1591::/48
 2001:67c:15a2::/48
@@ -30,7 +30,6 @@
 2a0d:4b40::/29
 2a0d:4c40::/29
 2a0e:1c00::/29
-2a0f:bc00::/29
 2a11:2800:3::/48
 2c0f:ee78::/32
 2c0f:f738:2000::/35

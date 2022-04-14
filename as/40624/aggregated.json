@@ -1,10 +1,9 @@
 {
   "asn": 40624,
-  "handle": "MILLICORP",
-  "description": "Millicorp",
+  "handle": "DODEVLLC",
+  "description": "Do Dev LLC",
   "subnets": {
     "ipv4": [
-      "162.213.69.0/24",
       "162.213.70.0/23"
     ],
     "ipv6": []

@@ -4,11 +4,8 @@
   "description": "The Aldridge Company",
   "subnets": {
     "ipv4": [
-      "64.8.96.0/19",
       "216.139.64.0/19"
     ],
-    "ipv6": [
-      "2605:4b00::/32"
-    ]
+    "ipv6": []
   }
 }

@@ -1,3 +1,5 @@
 # AS58482 (PALAPAMEDIA-ID)
 # PT. Palapa Media Indonesia
 #
+2404:f900::/45
+2404:f900:8::/46

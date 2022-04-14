@@ -1,0 +1,11 @@
+{
+  "asn": 43740,
+  "handle": "ZTK",
+  "description": "United Service Department of Tula LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a05:2940::/32"
+    ]
+  }
+}

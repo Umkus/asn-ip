@@ -1,5 +1,5 @@
 # AS134666 (HOSHINETWORK)
-# Cat Networks Hong Kong Limited
+# Cat Networks K.K.
 #
 2403:5180:5::/48
 2404:f4c0:f502::/48
@@ -8,3 +8,4 @@
 2a06:e881:4800::/48
 2a06:e881:480f::/48
 2a0e:b107:30f::/48
+2a12:a307:2::/48

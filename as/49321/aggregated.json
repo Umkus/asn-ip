@@ -4,8 +4,11 @@
   "description": "ITgration GmbH",
   "subnets": {
     "ipv4": [
+      "62.3.43.0/24",
       "185.128.225.0/24"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2a0d:140::/29"
+    ]
   }
 }

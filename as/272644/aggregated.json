@@ -1,0 +1,11 @@
+{
+  "asn": 272644,
+  "handle": "ON-MAIS-FIBRA",
+  "description": "On Mais Fibra",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2804:8674::/32"
+    ]
+  }
+}

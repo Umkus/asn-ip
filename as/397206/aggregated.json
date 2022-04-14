@@ -1,0 +1,9 @@
+{
+  "asn": 397206,
+  "handle": "VRSN-AC28",
+  "description": "VeriSign Global Registry Services",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

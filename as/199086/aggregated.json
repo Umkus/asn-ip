@@ -1,13 +1,9 @@
 {
   "asn": 199086,
   "handle": "CADOOZ-AG",
-  "description": "Cadooz AG",
+  "description": "cadooz GmbH",
   "subnets": {
-    "ipv4": [
-      "91.193.72.0/24"
-    ],
-    "ipv6": [
-      "2001:678:4cc::/48"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

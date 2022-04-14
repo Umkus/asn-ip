@@ -4,7 +4,7 @@
   "description": "SIMBA MEDIA GHANA LIMITED",
   "subnets": {
     "ipv4": [
-      "154.65.21.0/24"
+      "102.222.172.0/24"
     ],
     "ipv6": []
   }

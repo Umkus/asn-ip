@@ -1,0 +1,13 @@
+{
+  "asn": 42563,
+  "handle": "ISPHOST",
+  "description": "FOP Budko Dmitro Pavlovich",
+  "subnets": {
+    "ipv4": [
+      "91.197.56.0/24"
+    ],
+    "ipv6": [
+      "2001:678:41c::/48"
+    ]
+  }
+}

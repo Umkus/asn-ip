@@ -1,12 +1,14 @@
 {
   "asn": 400190,
-  "handle": "FMI-NA-01",
+  "handle": "FREEPORT-MCMORAN-INC",
   "description": "Freeport-McMoRan Inc.",
   "subnets": {
     "ipv4": [
+      "157.30.8.0/22",
       "157.30.28.0/22"
     ],
     "ipv6": [
+      "2602:fc3e::/48",
       "2602:fc3e:810::/48"
     ]
   }

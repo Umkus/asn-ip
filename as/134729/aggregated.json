@@ -3,7 +3,9 @@
   "handle": "JPTL-AP",
   "description": "JOINT POWER TECHNOLOGY LIMITED",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "43.92.128.0/18"
+    ],
     "ipv6": []
   }
 }

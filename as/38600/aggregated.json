@@ -1,0 +1,9 @@
+{
+  "asn": 38600,
+  "handle": "SMART-AXIATA-KH",
+  "description": "Smart Axiata Co., Ltd.",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

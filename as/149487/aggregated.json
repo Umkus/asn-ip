@@ -1,0 +1,13 @@
+{
+  "asn": 149487,
+  "handle": "MCLOCCL-AP",
+  "description": "MOC COMPANY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.181.26.0/23"
+    ],
+    "ipv6": [
+      "2400:57a0::/32"
+    ]
+  }
+}

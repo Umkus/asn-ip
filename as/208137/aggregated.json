@@ -1,0 +1,13 @@
+{
+  "asn": 208137,
+  "handle": "LINLEE",
+  "description": "Chi-Yuan Chen",
+  "subnets": {
+    "ipv4": [
+      "103.179.29.0/24"
+    ],
+    "ipv6": [
+      "2a0e:8f02:f03c::/48"
+    ]
+  }
+}

@@ -1,9 +1,11 @@
 {
   "asn": 133981,
-  "handle": "SAISNET-IN",
-  "description": "SAI AKSHAY INTERNET SERVICES PRIVATE LIMITED",
+  "handle": "IRINN-BLOCK",
+  "description": "IRINN AS-BLOCK",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.55.214.0/23"
+    ],
     "ipv6": []
   }
 }

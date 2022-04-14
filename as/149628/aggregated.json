@@ -1,0 +1,14 @@
+{
+  "asn": 149628,
+  "handle": "HKBIL-AP",
+  "description": "HONG KONG BRIDGE INFO-TECH LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.78.68.0/22",
+      "103.95.128.0/22",
+      "103.100.52.0/22",
+      "156.226.6.0/24"
+    ],
+    "ipv6": []
+  }
+}

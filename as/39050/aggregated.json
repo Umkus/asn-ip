@@ -1,0 +1,13 @@
+{
+  "asn": 39050,
+  "handle": "NETSERVICE",
+  "description": "NET service solution, s.r.o.",
+  "subnets": {
+    "ipv4": [
+      "185.224.214.0/24"
+    ],
+    "ipv6": [
+      "2a10:9880::/29"
+    ]
+  }
+}

@@ -3,11 +3,14 @@
   "handle": "CLOUDIE",
   "description": "Cloudie Networks Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "23.134.88.0/24"
+    ],
     "ipv6": [
+      "2602:fba1::/39",
+      "2602:fba1:a00::/40",
       "2602:fc23:120::/44",
-      "2a05:1083:ac00::/40",
-      "2a05:1083:adc0::/42"
+      "2a06:a005:1::/48"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "asn": 44604,
-  "handle": "SVYAZ-TELECOM",
-  "description": "Svyaz-Telecom Ltd.",
+  "handle": "KVANT-TELECOM",
+  "description": "JSC KVANT-TELEKOM",
   "subnets": {
     "ipv4": [
       "5.187.68.0/22",
@@ -16,6 +16,7 @@
       "109.106.140.0/22",
       "178.210.35.0/24",
       "185.33.161.0/24",
+      "185.33.162.0/24",
       "185.177.96.0/24",
       "185.177.98.0/24"
     ],

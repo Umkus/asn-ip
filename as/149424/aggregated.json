@@ -1,11 +1,11 @@
 {
   "asn": 149424,
-  "handle": "DINGO-GB",
-  "description": "August Internet",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [],
     "ipv6": [
-      "2602:fc23:160::/47"
+      "2602:fc23:161::/48"
     ]
   }
 }

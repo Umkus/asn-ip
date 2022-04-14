@@ -4,9 +4,9 @@
   "description": "Vocom International Telecommunication Inc.",
   "subnets": {
     "ipv4": [
-      "103.163.120.0/24",
       "103.215.127.0/24",
-      "150.129.216.0/24"
+      "150.129.216.0/24",
+      "157.119.22.0/24"
     ],
     "ipv6": []
   }

@@ -4,7 +4,7 @@
   "description": "National Assembly Abuja",
   "subnets": {
     "ipv4": [
-      "102.165.184.0/22"
+      "102.165.184.0/24"
     ],
     "ipv6": []
   }

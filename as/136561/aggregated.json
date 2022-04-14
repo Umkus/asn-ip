@@ -1,0 +1,9 @@
+{
+  "asn": 136561,
+  "handle": "SUNC-AP",
+  "description": "Sun Cybercafe",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

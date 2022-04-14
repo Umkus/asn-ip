@@ -1,0 +1,13 @@
+{
+  "asn": 400179,
+  "handle": "PDQCOM",
+  "description": "PDQ.com Corporation",
+  "subnets": {
+    "ipv4": [
+      "23.130.8.0/24"
+    ],
+    "ipv6": [
+      "2620:9f:a000::/48"
+    ]
+  }
+}

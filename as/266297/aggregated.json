@@ -1,11 +1,13 @@
 {
   "asn": 266297,
-  "handle": "NOCTELL-PROVEDOR-DE-INTERNET",
-  "description": "noctell provedor de internet",
+  "handle": "ANTONIO-G-DOS-SANTOS-NETO",
+  "description": "ANTONIO G. DOS SANTOS NETO",
   "subnets": {
     "ipv4": [
       "170.79.204.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:35a0::/32"
+    ]
   }
 }

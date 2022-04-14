@@ -1,10 +1,10 @@
 {
   "asn": 44227,
   "handle": "TN-CUSTOM",
-  "description": "JustNet GmbH",
+  "description": "Stefan Wild",
   "subnets": {
     "ipv4": [
-      "79.99.236.0/24"
+      "156.67.15.0/24"
     ],
     "ipv6": []
   }

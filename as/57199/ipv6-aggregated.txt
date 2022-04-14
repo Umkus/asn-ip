@@ -1,5 +1,3 @@
-# AS57199 (MILKYWAN)
+# AS57199 (MILKYWAN-OLD)
 # MilkyWan
 #
-2a0b:cbc0::/32
-2a0e:e700::/31

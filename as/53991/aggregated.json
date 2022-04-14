@@ -1,12 +1,12 @@
 {
   "asn": 53991,
-  "handle": "ACRONIS-199",
-  "description": "nScaled Inc",
+  "handle": "ACRONIS",
+  "description": "Acronis",
   "subnets": {
     "ipv4": [
       "162.244.6.0/23",
       "199.193.156.0/22",
-      "206.188.216.0/24"
+      "206.188.216.0/23"
     ],
     "ipv6": []
   }

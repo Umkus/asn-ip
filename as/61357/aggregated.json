@@ -1,13 +1,9 @@
 {
   "asn": 61357,
-  "handle": "WHITELABEL",
-  "description": "LLC WHITE LABEL IT SOLUTIONS",
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
   "subnets": {
-    "ipv4": [
-      "185.240.34.0/23"
-    ],
-    "ipv6": [
-      "2a07:7ac0::/29"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

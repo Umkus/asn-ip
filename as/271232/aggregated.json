@@ -4,8 +4,10 @@
   "description": "SAPHIR SOLUCOES INTEGRADAS DE TECNOLOGIA LTDA",
   "subnets": {
     "ipv4": [
-      "190.109.112.0/23"
+      "190.109.112.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:7848::/32"
+    ]
   }
 }

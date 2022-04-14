@@ -1,0 +1,12 @@
+{
+  "asn": 140706,
+  "handle": "MAYBANK-AWN-AP",
+  "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+  "subnets": {
+    "ipv4": [
+      "110.49.87.0/24",
+      "110.170.240.0/24"
+    ],
+    "ipv6": []
+  }
+}

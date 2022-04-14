@@ -4,7 +4,7 @@
   "description": "MBF Clearing Corp.",
   "subnets": {
     "ipv4": [
-      "38.96.183.0/24"
+      "38.96.143.0/24"
     ],
     "ipv6": []
   }
