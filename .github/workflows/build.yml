@@ -41,6 +41,8 @@ jobs:
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
-          name: ranges_ipv4.csv
+          name: ASN CSVs
           tag_name: latest
-          files: ranges_ipv4.csv
+          files: |
+            ranges_ipv4.csv
+            as.csv
