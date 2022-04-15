@@ -5,8 +5,6 @@ const ranges = readdirSync(`${__dirname}/../as`)
   .map((asn) => {
     const info = require(`${__dirname}/../as/${asn}/aggregated.json`);
 
-    console.log(asn);
-
     return info.subnets.ipv4.map((cidr) => {
       const [start, end] = new ipCidr(cidr).toRange({type: 'bigInteger'});
       return [asn, cidr, +start, +end];

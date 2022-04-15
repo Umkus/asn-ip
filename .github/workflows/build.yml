@@ -38,3 +38,7 @@ jobs:
         run: npm install
       - name: Building the CIDR ranges for all ASNs
         run: npm run build
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: ranges_ipv4.csv
