@@ -1,4 +1,4 @@
-name: Scheduled Merge Remote Action
+name: Building ASN list
 on:
   push:
     branches:
@@ -21,3 +21,18 @@ jobs:
           upstream: ipverse/asn-ip      # set the upstream repo
           upstream-branch: master   # set the upstream branch to merge from
           branch: master          # set the branch to merge to
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: oleksiyrudenko/gha-git-credentials@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 14
+          registry-url: https://registry.npmjs.org/
+      - name: Installing deps
+        run: npm install
+      - name: Building the CIDR ranges for all ASNs
+        run: npm run build
