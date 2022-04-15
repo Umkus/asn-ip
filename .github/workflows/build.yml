@@ -22,6 +22,8 @@ jobs:
           git push origin master
 
   build:
+    needs:
+      - merge-upstream
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
