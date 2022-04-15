@@ -41,4 +41,5 @@ jobs:
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
+          name: ranges_ipv4.csv
           files: ranges_ipv4.csv
