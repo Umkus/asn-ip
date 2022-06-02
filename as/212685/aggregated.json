@@ -1,9 +1,10 @@
 {
   "asn": 212685,
-  "handle": "ARK",
+  "handle": "NSKMSK1",
   "description": "George Mchedlidze PE",
   "subnets": {
     "ipv4": [
+      "89.208.119.0/24",
       "92.38.222.0/24",
       "109.248.4.0/24"
     ],

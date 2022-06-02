@@ -1,0 +1,12 @@
+{
+  "asn": 205183,
+  "handle": "CLAUDWEB",
+  "description": "Claudio Michael Weber",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a06:1287:1000::/44",
+      "2a06:a005:8a0::/44"
+    ]
+  }
+}

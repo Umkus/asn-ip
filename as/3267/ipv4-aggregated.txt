@@ -2,7 +2,8 @@
 # Federal State Institution Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences
 #
 80.250.160.0/21
-80.250.168.0/22
+80.250.168.0/24
+80.250.170.0/23
 80.250.172.0/23
 80.250.176.0/20
 82.137.128.0/18
@@ -19,7 +20,6 @@
 85.143.0.0/16
 86.110.96.0/19
 185.141.124.0/22
-193.27.214.0/24
 193.232.68.0/23
 194.85.32.0/20
 194.85.160.0/20

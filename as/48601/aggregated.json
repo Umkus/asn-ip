@@ -1,11 +1,9 @@
 {
   "asn": 48601,
-  "handle": "GKBN",
-  "description": "Group of Companies Bulletin of Estate Ltd.",
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
   "subnets": {
-    "ipv4": [
-      "92.255.54.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

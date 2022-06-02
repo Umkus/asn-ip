@@ -1,7 +1,7 @@
 {
   "asn": 48955,
-  "handle": "IPV4",
-  "description": "IPv4 Management SRL",
+  "handle": "IRM",
+  "description": "Internet Resources Management SRL",
   "subnets": {
     "ipv4": [
       "2.59.15.0/24",
@@ -15,6 +15,7 @@
       "81.181.162.0/23",
       "81.181.174.0/23",
       "84.54.34.0/24",
+      "85.120.184.0/23",
       "85.122.60.0/23",
       "89.40.42.0/24",
       "89.42.30.0/24",

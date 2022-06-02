@@ -3,11 +3,15 @@
   "handle": "HAIMANETWORK-AP",
   "description": "LSHIY Network Technology Limited",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.158.186.0/24"
+    ],
     "ipv6": [
-      "2404:f4c0:f600::/40",
-      "2602:feda:bf0::/44",
-      "2a0e:b107:1d7::/48"
+      "2a06:a005:510::/44",
+      "2a06:a005:520::/43",
+      "2a06:a005:540::/43",
+      "2a06:a005:660::/44",
+      "2a0d:2587:8500::/40"
     ]
   }
 }

@@ -1,10 +1,12 @@
 {
   "asn": 197076,
   "handle": "TUTOR",
-  "description": "TUTOR S.A.",
+  "description": "Tutor SA",
   "subnets": {
     "ipv4": [
-      "178.19.128.0/20"
+      "80.75.144.0/21",
+      "178.19.128.0/20",
+      "185.6.212.0/22"
     ],
     "ipv6": []
   }

@@ -1,0 +1,9 @@
+{
+  "asn": 28002,
+  "handle": "RESERVED",
+  "description": "LACNIC - Latin American and Caribbean IP address",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

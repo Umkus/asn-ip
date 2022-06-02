@@ -1,0 +1,13 @@
+{
+  "asn": 206402,
+  "handle": "ORION",
+  "description": "Orion Innovation AG",
+  "subnets": {
+    "ipv4": [
+      "62.68.94.0/24"
+    ],
+    "ipv6": [
+      "2001:67c:990::/48"
+    ]
+  }
+}

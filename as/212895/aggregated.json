@@ -1,6 +1,6 @@
 {
   "asn": 212895,
-  "handle": "JOHANNES-ERNST",
+  "handle": "ROUTE64-ORG",
   "description": "Johannes Ernst",
   "subnets": {
     "ipv4": [],
@@ -9,7 +9,10 @@
       "2a0f:5707:abf0::/46",
       "2a0f:5707:abf4::/47",
       "2a0f:5707:abf6::/48",
-      "2a0f:5707:b000::/48"
+      "2a0f:5707:abfb::/48",
+      "2a0f:5707:b000::/48",
+      "2a11:6c7::/48",
+      "2a11:6c7:8::/47"
     ]
   }
 }

@@ -1,9 +1,11 @@
 {
   "asn": 54817,
-  "handle": "TELECENTIVE",
+  "handle": "HYPESTATUS",
   "description": "Webby Enterprises LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "184.174.18.0/23"
+    ],
     "ipv6": []
   }
 }

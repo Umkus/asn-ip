@@ -1,4 +1,3 @@
-# AS50792 (RET)
-# LLC Real-net
+# AS50792 (RESERVED)
+# RIPE NCC ASN block
 #
-93.187.120.0/21

@@ -3,7 +3,10 @@
   "handle": "IB-TELECOMUNICAES-LTDA",
   "description": "IB TELECOMUNICAES LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "189.126.132.0/22",
+      "189.126.144.0/20"
+    ],
     "ipv6": []
   }
 }

@@ -1,0 +1,9 @@
+{
+  "asn": 17454,
+  "handle": "HASINDONET-ID-AP",
+  "description": "PT Hasindo Net",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

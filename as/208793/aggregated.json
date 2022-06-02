@@ -1,11 +1,9 @@
 {
   "asn": 208793,
   "handle": "ALTEGRO",
-  "description": "Altegro Group LLC",
+  "description": "LLC Demo-Club",
   "subnets": {
-    "ipv4": [
-      "45.85.24.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

@@ -1,9 +1,10 @@
 {
   "asn": 264067,
-  "handle": "DIGINET-TECNOLOGIA",
-  "description": "DIGINET TECNOLOGIA",
+  "handle": "MUTUM-FIBRA-LTDA",
+  "description": "MUTUM FIBRA LTDA",
   "subnets": {
     "ipv4": [
+      "138.118.184.0/22",
       "143.202.80.0/22"
     ],
     "ipv6": [

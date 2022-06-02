@@ -4,8 +4,7 @@
   "description": "MYTEK TRADING PTY LTD",
   "subnets": {
     "ipv4": [
-      "185.135.75.0/24",
-      "185.135.76.0/22"
+      "38.47.0.0/19"
     ],
     "ipv6": []
   }

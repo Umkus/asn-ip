@@ -1,7 +1,7 @@
 {
   "asn": 25933,
-  "handle": "SUL-AMERICANA-TECNOLOGIA",
-  "description": "SUL AMERICANA TECNOLOGIA E INFORMATICA LTDA",
+  "handle": "VOGEL-SOLUES-EM",
+  "description": "Vogel Solues em Telecom e Informtica S/A",
   "subnets": {
     "ipv4": [
       "167.249.232.0/22",
@@ -29,7 +29,6 @@
       "2804:27c::/32",
       "2804:eec:11c4::/48",
       "2804:eec:1301::/48",
-      "2804:eec:4001::/48",
       "2804:eec:4002::/48"
     ]
   }

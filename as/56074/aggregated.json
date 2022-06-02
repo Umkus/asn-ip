@@ -4,6 +4,7 @@
   "description": "NetStrategy Pty Ltd",
   "subnets": {
     "ipv4": [
+      "43.252.128.0/24",
       "103.4.86.0/24"
     ],
     "ipv6": []

@@ -1,11 +1,9 @@
 {
   "asn": 132358,
-  "handle": "RRINFORMATICS-IN",
-  "description": "RR INFORMATICS",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
-    "ipv4": [
-      "103.14.208.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

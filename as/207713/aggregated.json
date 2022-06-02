@@ -1,7 +1,12 @@
 {
   "asn": 207713,
+  "handle": "GIR",
+  "description": "GLOBAL INTERNET SOLUTIONS LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "81.19.139.0/24",
+      "81.19.141.0/24"
+    ],
     "ipv6": []
   }
 }

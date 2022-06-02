@@ -1,0 +1,13 @@
+{
+  "asn": 147250,
+  "handle": "NEXEN-IN",
+  "description": "NEXEN BROADBAND OPC PRIVATE LIMITED",
+  "subnets": {
+    "ipv4": [
+      "103.187.216.0/23"
+    ],
+    "ipv6": [
+      "2001:df0:c040::/48"
+    ]
+  }
+}

@@ -1,4 +1,4 @@
-# AS51519 (BAHNFLOW)
-# Bahnflow AB
+# AS51519 (KARABRO)
+# Karabro AB
 #
 2a0e:73c0::/29

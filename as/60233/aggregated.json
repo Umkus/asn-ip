@@ -3,11 +3,7 @@
   "handle": "V4ESCROW",
   "description": "V4ESCROW, LLC",
   "subnets": {
-    "ipv4": [
-      "91.233.121.0/24"
-    ],
-    "ipv6": [
-      "2a04:5f80::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

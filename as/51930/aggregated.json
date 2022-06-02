@@ -1,0 +1,13 @@
+{
+  "asn": 51930,
+  "handle": "LAMBDA-IX",
+  "description": "Haonan Yang",
+  "subnets": {
+    "ipv4": [
+      "216.146.29.0/24"
+    ],
+    "ipv6": [
+      "2a12:dd47:8000::/48"
+    ]
+  }
+}

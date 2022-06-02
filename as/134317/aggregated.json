@@ -1,0 +1,9 @@
+{
+  "asn": 134317,
+  "handle": "SKYLINE-IN",
+  "description": "Skyline Network",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

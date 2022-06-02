@@ -1,12 +1,10 @@
 {
   "asn": 39967,
-  "handle": "PRH",
-  "description": "Packet Rabbit Inc",
+  "handle": "PATH-NETWORK",
+  "description": "Path Network, Inc.",
   "subnets": {
     "ipv4": [
-      "104.152.142.0/23",
       "163.123.192.0/24",
-      "163.123.195.0/24",
       "172.111.32.0/23"
     ],
     "ipv6": []

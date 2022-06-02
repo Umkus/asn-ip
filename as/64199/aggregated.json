@@ -1,9 +1,12 @@
 {
   "asn": 64199,
-  "handle": "AUGUST-INTERNET",
-  "description": "August Internet",
+  "handle": "DE-316",
+  "description": "DatPixel Entertainment Inc.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.25.11.0/24",
+      "185.158.150.0/24"
+    ],
     "ipv6": []
   }
 }

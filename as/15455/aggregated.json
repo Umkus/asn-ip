@@ -1,11 +1,9 @@
 {
   "asn": 15455,
-  "handle": "EMBANK",
-  "description": "OJSC Energomashbank",
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
   "subnets": {
-    "ipv4": [
-      "192.124.171.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

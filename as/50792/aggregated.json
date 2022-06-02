@@ -1,13 +1,9 @@
 {
   "asn": 50792,
-  "handle": "RET",
-  "description": "LLC Real-net",
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
   "subnets": {
-    "ipv4": [
-      "93.187.120.0/21"
-    ],
-    "ipv6": [
-      "2a00:8040::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }

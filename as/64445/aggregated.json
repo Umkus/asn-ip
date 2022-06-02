@@ -1,9 +1,12 @@
 {
   "asn": 64445,
   "handle": "NETJOIN",
-  "description": "4ISP SRL",
+  "description": "Michele Pietravalle trading as NetJoin",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a12:e6c0::/47",
+      "2a12:e6c0:2::/48"
+    ]
   }
 }

@@ -1,13 +1,11 @@
 {
   "asn": 268141,
-  "handle": "NELSON-JUNIOR-MARQUES",
-  "description": "NELSON JUNIOR MARQUES DA SILVA - ME",
+  "handle": "ZAP-TELECOM-ITZ",
+  "description": "ZAP TELECOM - ITZ",
   "subnets": {
     "ipv4": [
       "45.170.0.0/22"
     ],
-    "ipv6": [
-      "2804:58a4::/32"
-    ]
+    "ipv6": []
   }
 }

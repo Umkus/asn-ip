@@ -1,0 +1,13 @@
+{
+  "asn": 400438,
+  "handle": "RBI-BYTESURFER-01",
+  "description": "Reality Bytes Incorporated",
+  "subnets": {
+    "ipv4": [
+      "165.140.56.0/24"
+    ],
+    "ipv6": [
+      "2606:afc0::/32"
+    ]
+  }
+}

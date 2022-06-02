@@ -1,7 +1,7 @@
 {
   "asn": 55926,
-  "handle": "MIGHTYRIVERPOWER-AP",
-  "description": "CallPlus Services Limited",
+  "handle": "MERCURYNZ-AP",
+  "description": "Mercury NZ Limited",
   "subnets": {
     "ipv4": [
       "202.36.126.0/23"

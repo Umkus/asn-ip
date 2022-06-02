@@ -1,0 +1,9 @@
+{
+  "asn": 134323,
+  "handle": "GNWK",
+  "description": "Global Network",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

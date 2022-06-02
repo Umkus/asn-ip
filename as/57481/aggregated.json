@@ -1,0 +1,13 @@
+{
+  "asn": 57481,
+  "handle": "AUGUST-INTERNET",
+  "description": "Haonan Yang trading as \u0027August Internet\u0027",
+  "subnets": {
+    "ipv4": [
+      "216.146.28.0/24"
+    ],
+    "ipv6": [
+      "2a12:dd47:8003::/48"
+    ]
+  }
+}

@@ -1,11 +1,9 @@
 {
   "asn": 40529,
-  "handle": "CORBIXNETWORKS",
+  "handle": "MOXIENETWORKSINC",
   "description": "Moxie Communications, Inc.",
   "subnets": {
-    "ipv4": [
-      "208.12.64.0/19"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

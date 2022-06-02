@@ -1,0 +1,9 @@
+{
+  "asn": 135005,
+  "handle": "ATATELECOM-AP",
+  "description": "ATA TELECOM Co., Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,7 +1,7 @@
 {
   "asn": 51519,
-  "handle": "BAHNFLOW",
-  "description": "Bahnflow AB",
+  "handle": "KARABRO",
+  "description": "Karabro AB",
   "subnets": {
     "ipv4": [
       "45.132.232.0/22"

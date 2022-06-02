@@ -4,8 +4,6 @@
   "description": "Russian company LLC",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a02:dc00:9::/48"
-    ]
+    "ipv6": []
   }
 }

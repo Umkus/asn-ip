@@ -1,4 +1,3 @@
-# AS15455 (EMBANK)
-# OJSC Energomashbank
+# AS15455 (RESERVED)
+# RIPE NCC ASN block
 #
-192.124.171.0/24

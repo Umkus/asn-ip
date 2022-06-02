@@ -1,0 +1,9 @@
+{
+  "asn": 206977,
+  "handle": "KTH-PROJECT2022-RPKI",
+  "description": "Sergio R. Hernandez Torres",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

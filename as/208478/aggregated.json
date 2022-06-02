@@ -1,7 +1,7 @@
 {
   "asn": 208478,
-  "handle": "BAHNFLOW-ANYCAST",
-  "description": "Bahnflow AB",
+  "handle": "KARABRO-ANYCAST",
+  "description": "Karabro AB",
   "subnets": {
     "ipv4": [],
     "ipv6": []

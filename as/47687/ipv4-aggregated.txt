@@ -1,3 +1,3 @@
-# AS47687 (NETRADTEL)
-# Netrad Telecom SRL
+# AS47687 (RO-RADUDRAGHICI-TRANSIT)
+# Radu Draghici
 #
