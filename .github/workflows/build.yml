@@ -17,6 +17,7 @@ jobs:
           fetch-depth: 0
       - name: Merge Upstream
         run: |
+          git config pull.rebase false
           git remote add upstream https://github.com/ipverse/asn-ip.git
           git pull upstream master
           git push origin master
