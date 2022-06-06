@@ -17,6 +17,8 @@ jobs:
           fetch-depth: 0
       - name: Merge Upstream
         run: |
+          git config --global user.email "goreanski@gmail.com"
+          git config --global user.name "Mykhailo Gorianskyi"
           git config pull.rebase false
           git remote add upstream https://github.com/ipverse/asn-ip.git
           git pull upstream master
