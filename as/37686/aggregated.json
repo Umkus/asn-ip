@@ -4,8 +4,6 @@
   "description": "Ahmadu Bello University Zaria Nigeria",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2a0f:3040::/29"
-    ]
+    "ipv6": []
   }
 }
