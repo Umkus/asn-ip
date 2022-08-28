@@ -1,4 +1,4 @@
-# AS9955 (CHEONAN-KR)
+# AS9955 (CHEONAN)
 # Baekseok University
 #
 61.38.10.0/23

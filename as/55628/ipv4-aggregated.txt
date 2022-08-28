@@ -1,4 +1,4 @@
-# AS55628 (SGUC-KR)
+# AS55628 (SGUC)
 # Incheon Free Economic Zone
 #
 223.194.196.0/22

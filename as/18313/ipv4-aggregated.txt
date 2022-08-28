@@ -1,4 +1,4 @@
-# AS18313 (PCN-KR)
+# AS18313 (PCN)
 # LG HelloVision Corp.
 #
 1.11.0.0/21

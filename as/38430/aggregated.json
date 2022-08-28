@@ -1,6 +1,6 @@
 {
   "asn": 38430,
-  "handle": "SHINHANCARD-KR",
+  "handle": "SHINHANCARD",
   "description": "Shinhan card",
   "subnets": {
     "ipv4": [

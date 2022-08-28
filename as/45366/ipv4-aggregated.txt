@@ -1,4 +1,4 @@
-# AS45366 (CLTNET-KR)
+# AS45366 (CLTNET)
 # cyberlogitec
 #
 116.127.223.0/24

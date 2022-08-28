@@ -1,4 +1,4 @@
-# AS10158 (KAKAO-KR)
+# AS10158 (KAKAO)
 # Kakao Corp
 #
 103.27.150.0/23

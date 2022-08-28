@@ -1,6 +1,6 @@
 {
   "asn": 9455,
-  "handle": "EDUNET-KR",
+  "handle": "EDUNET",
   "description": "KERIS",
   "subnets": {
     "ipv4": [

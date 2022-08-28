@@ -1,4 +1,4 @@
-# AS38696 (KBRI-KR)
+# AS38696 (KBRI)
 # Korea Brain Research Institute
 #
 121.181.196.0/24

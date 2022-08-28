@@ -1,4 +1,4 @@
-# AS17598 (YBNTV-KR)
+# AS17598 (YBNTV)
 # LG HelloVision Corp.
 #
 43.251.120.0/22

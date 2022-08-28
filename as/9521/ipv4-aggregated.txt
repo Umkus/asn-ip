@@ -1,4 +1,4 @@
-# AS9521 (KATECH-KR)
+# AS9521 (KATECH)
 # Korea Automotive Technology Institute
 #
 203.250.184.0/22

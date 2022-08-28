@@ -1,4 +1,4 @@
-# AS9866 (LGCAPITAL-KR)
+# AS9866 (LGCAPITAL)
 # Shinhan card
 #
 58.150.243.0/24

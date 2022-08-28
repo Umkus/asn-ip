@@ -1,4 +1,4 @@
-# AS55623 (KIDI-KR)
+# AS55623 (KIDI)
 # Korea Insurance Development Instute
 #
 175.124.157.0/24

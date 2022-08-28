@@ -1,4 +1,4 @@
-# AS4793 (HHIAS-KR)
+# AS4793 (HHIAS)
 # Hyundai Heavy Industries
 #
 61.83.84.0/23

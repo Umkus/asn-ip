@@ -1,4 +1,4 @@
-# AS55632 (SEJONG-KR)
+# AS55632 (SEJONG)
 # Hansol High School
 #
 58.227.223.0/24

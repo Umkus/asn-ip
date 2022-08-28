@@ -1,6 +1,6 @@
 {
   "asn": 20132,
-  "handle": "-SCOTIABANK",
+  "handle": "SCOTIABANK",
   "description": "Bank of Nova Scotia",
   "subnets": {
     "ipv4": [

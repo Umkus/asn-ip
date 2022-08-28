@@ -1,6 +1,6 @@
 {
   "asn": 10051,
-  "handle": "MICNET-KR",
+  "handle": "MICNET",
   "description": "Korea Post Information Center",
   "subnets": {
     "ipv4": [

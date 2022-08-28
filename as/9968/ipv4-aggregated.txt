@@ -1,4 +1,4 @@
-# AS9968 (KYOBO-KR)
+# AS9968 (KYOBO)
 # KYOBO Life Insurance Co., Ltd.
 #
 61.38.250.0/24

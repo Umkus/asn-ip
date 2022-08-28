@@ -1,4 +1,4 @@
-# AS9706 (PETISNET-KR)
+# AS9706 (PETISNET)
 # Busan Institute for Future Education
 #
 210.180.128.0/18

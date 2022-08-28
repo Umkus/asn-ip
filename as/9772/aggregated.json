@@ -1,6 +1,6 @@
 {
   "asn": 9772,
-  "handle": "JBBANK-KR",
+  "handle": "JBBANK",
   "description": "Jeonbuk Bank",
   "subnets": {
     "ipv4": [

@@ -1,4 +1,4 @@
-# AS7557 (KTNET-KR)
+# AS7557 (KTNET)
 # Korea Trade Network
 #
 203.233.192.0/19

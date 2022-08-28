@@ -1,4 +1,4 @@
-# AS9696 (EDAS-KR)
+# AS9696 (EDAS)
 # Oscar Enterprise
 #
 14.32.22.0/24

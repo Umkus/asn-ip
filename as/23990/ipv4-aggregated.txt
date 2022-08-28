@@ -1,4 +1,4 @@
-# AS23990 (MIGUM-KR)
+# AS23990 (MIGUM)
 # MigumCableNetwork
 #
 58.102.226.0/24

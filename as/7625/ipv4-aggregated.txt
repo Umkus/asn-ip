@@ -1,4 +1,4 @@
-# AS7625 (DAUM-KR)
+# AS7625 (DAUM)
 # Kakao Corp
 #
 121.53.80.0/21

@@ -1,4 +1,4 @@
-# AS9944 (LGESHOP-KR)
+# AS9944 (LGESHOP)
 # LG Home shopping Inc.
 #
 1.232.48.0/24

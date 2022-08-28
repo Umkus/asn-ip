@@ -1,4 +1,4 @@
-# AS38407 (GOEAS-KR)
+# AS38407 (GOEAS)
 # Gyeonggi-Do Ansan Office of Education
 #
 1.242.4.0/23

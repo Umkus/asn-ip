@@ -1,4 +1,4 @@
-# AS9579 (SHINYOUNG-KR)
+# AS9579 (SHINYOUNG)
 # Shinyoung Securities CO ., LTD.
 #
 1.209.83.0/24

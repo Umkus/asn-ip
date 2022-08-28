@@ -1,4 +1,4 @@
-# AS9849 (CWD-KR)
+# AS9849 (CWD)
 # Office of the president
 #
 175.114.136.0/23

@@ -1,4 +1,4 @@
-# AS10043 (MIC-KR)
+# AS10043 (MIC)
 # Ministry of Science and ICT
 #
 58.184.108.0/24

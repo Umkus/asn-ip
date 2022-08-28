@@ -1,4 +1,4 @@
-# AS55611 (KYUNGMIN-KR)
+# AS55611 (KYUNGMIN)
 # kyungmin university
 #
 203.232.161.0/24

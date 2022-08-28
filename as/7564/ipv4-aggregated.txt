@@ -1,4 +1,4 @@
-# AS7564 (KAERINET-KR)
+# AS7564 (KAERINET)
 # Korea Atomic Energy Research Institute
 #
 147.43.0.0/16

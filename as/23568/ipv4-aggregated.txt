@@ -1,4 +1,4 @@
-# AS23568 (CRA-KR)
+# AS23568 (CRA)
 # Cycle Racing Association
 #
 210.90.28.0/24

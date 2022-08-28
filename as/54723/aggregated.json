@@ -1,6 +1,6 @@
 {
   "asn": 54723,
-  "handle": "-MIDWEST-DATA-CENTER",
+  "handle": "MIDWEST-DATA-CENTER",
   "description": "Midwest Data Center, Inc.",
   "subnets": {
     "ipv4": [

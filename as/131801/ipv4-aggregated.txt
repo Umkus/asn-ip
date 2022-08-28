@@ -1,4 +1,4 @@
-# AS131801 (IPIC-KR)
+# AS131801 (IPIC)
 # Korea Institute of Patent Information
 #
 103.171.230.0/24

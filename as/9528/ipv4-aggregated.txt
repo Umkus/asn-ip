@@ -1,4 +1,4 @@
-# AS9528 (CBE-KR)
+# AS9528 (CBE)
 # Taejon Institute of Education Science
 #
 61.108.9.0/24

@@ -1,4 +1,4 @@
-# AS38701 (PIRANHA-KR)
+# AS38701 (PIRANHA)
 # Piranha Systems
 #
 14.206.0.0/24

@@ -1,4 +1,4 @@
-# AS9769 (SEJONG-KR)
+# AS9769 (SEJONG)
 # Sejong University
 #
 203.250.148.0/23

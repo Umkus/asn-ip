@@ -1,3 +1,3 @@
-# AS10189 (HMM-KR)
+# AS10189 (HMM)
 # Hyundai Movex
 #

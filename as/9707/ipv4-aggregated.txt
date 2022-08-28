@@ -1,4 +1,4 @@
-# AS9707 (WORKNET-KR)
+# AS9707 (WORKNET)
 # Korea Employment Information Management Agency
 #
 61.108.224.0/24

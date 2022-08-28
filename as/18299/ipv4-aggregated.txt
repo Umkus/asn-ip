@@ -1,4 +1,4 @@
-# AS18299 (BSFN-KR)
+# AS18299 (BSFN)
 # BNK Securities Co.,Ltd
 #
 211.117.55.0/24

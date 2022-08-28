@@ -1,6 +1,6 @@
 {
   "asn": 38707,
-  "handle": "TOSSPAYMENTS-KR",
+  "handle": "TOSSPAYMENTS",
   "description": "Tosspayments",
   "subnets": {
     "ipv4": [

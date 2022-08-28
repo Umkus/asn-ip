@@ -1,4 +1,4 @@
-# AS9318 (SKB-KR)
+# AS9318 (SKB)
 # SK Broadband Co Ltd
 #
 2001:290::/32

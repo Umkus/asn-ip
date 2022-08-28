@@ -1,4 +1,4 @@
-# AS10054 (CMBKJ-KR)
+# AS10054 (CMBKJ)
 # CMB Kwangju Broadcasting
 #
 49.246.0.0/17

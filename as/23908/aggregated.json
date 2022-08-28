@@ -1,6 +1,6 @@
 {
   "asn": 23908,
-  "handle": "AIRPORT-KR",
+  "handle": "AIRPORT",
   "description": "IIAC",
   "subnets": {
     "ipv4": [

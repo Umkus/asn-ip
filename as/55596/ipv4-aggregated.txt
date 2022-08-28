@@ -1,4 +1,4 @@
-# AS55596 (GILHOSP-KR)
+# AS55596 (GILHOSP)
 # Gachon University Gil Hospital
 #
 211.253.219.0/24

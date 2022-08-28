@@ -1,4 +1,4 @@
-# AS9321 (HYUNET-KR)
+# AS9321 (HYUNET)
 # Hanyang University
 #
 128.134.111.0/24

@@ -1,3 +1,3 @@
-# AS17593 (NONGSHIM-KR)
+# AS17593 (NONGSHIM)
 # NDS Coporation
 #

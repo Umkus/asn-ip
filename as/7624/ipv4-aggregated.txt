@@ -1,4 +1,4 @@
-# AS7624 (JEONJU-KR)
+# AS7624 (JEONJU)
 # jeonju university
 #
 101.1.8.0/21

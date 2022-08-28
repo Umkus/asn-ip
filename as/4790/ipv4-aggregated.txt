@@ -1,4 +1,4 @@
-# AS4790 (CHOSUN-KR)
+# AS4790 (CHOSUN)
 # Chosun ilbo Inc.
 #
 14.56.152.0/23

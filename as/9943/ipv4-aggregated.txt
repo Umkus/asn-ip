@@ -1,4 +1,4 @@
-# AS9943 (KNCTV-KR)
+# AS9943 (KNCTV)
 # KangNam CableTV
 #
 14.138.0.0/17

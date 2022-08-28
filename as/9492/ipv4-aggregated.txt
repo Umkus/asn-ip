@@ -1,4 +1,4 @@
-# AS9492 (MAEKYUNG-KR)
+# AS9492 (MAEKYUNG)
 # Maeil Business Newspaper
 #
 203.238.56.0/22

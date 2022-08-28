@@ -1,4 +1,4 @@
-# AS38686 (KSCC-KR)
+# AS38686 (KSCC)
 # Tmoney co., ltd
 #
 203.235.15.0/24

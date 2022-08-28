@@ -1,4 +1,4 @@
-# AS9640 (KRCERT-KR)
+# AS9640 (KRCERT)
 # Korea Internet Security Agency
 #
 121.133.41.0/24

@@ -1,4 +1,4 @@
-# AS10035 (HYUNDAIDEPT-KR)
+# AS10035 (HYUNDAIDEPT)
 # Hyundai Department Store Co., Ltd.
 #
 116.121.10.0/24

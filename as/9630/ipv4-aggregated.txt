@@ -1,4 +1,4 @@
-# AS9630 (WEBTRADE-KR)
+# AS9630 (WEBTRADE)
 # SK Securities Limited
 #
 1.209.200.0/24

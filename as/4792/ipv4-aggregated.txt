@@ -1,4 +1,4 @@
-# AS4792 (SKCOMMS-KR)
+# AS4792 (SKCOMMS)
 # SK communications
 #
 60.253.64.0/19

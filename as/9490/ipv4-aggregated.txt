@@ -1,4 +1,4 @@
-# AS9490 (NIS-KR)
+# AS9490 (NIS)
 # Oscar Enterprise
 #
 168.126.27.0/24

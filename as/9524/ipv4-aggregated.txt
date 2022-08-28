@@ -1,4 +1,4 @@
-# AS9524 (HMC-KR)
+# AS9524 (HMC)
 # AutoEverSystems Corp.
 #
 58.87.32.0/19

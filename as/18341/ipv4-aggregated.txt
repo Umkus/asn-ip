@@ -1,4 +1,4 @@
-# AS18341 (GUMI-KR)
+# AS18341 (GUMI)
 # Gumi College
 #
 61.80.206.0/23

@@ -1,4 +1,4 @@
-# AS7559 (DONGA-NET-KR)
+# AS7559 (DONGA-NET)
 # donga.com
 #
 210.115.128.0/24

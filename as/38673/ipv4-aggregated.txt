@@ -1,4 +1,4 @@
-# AS38673 (KCTVNET-KR)
+# AS38673 (KCTVNET)
 # Korea Cable TV Kwangju Broadcasting
 #
 43.227.120.0/22

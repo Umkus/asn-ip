@@ -1,4 +1,4 @@
-# AS9847 (KSFC-KR)
+# AS9847 (KSFC)
 # Korea Securities Finance Corporation
 #
 60.196.139.0/24

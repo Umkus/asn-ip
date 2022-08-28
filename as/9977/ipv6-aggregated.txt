@@ -1,3 +1,3 @@
-# AS9977 (KISACERT-KR)
+# AS9977 (KISACERT)
 # Korea Internet Security Agency
 #

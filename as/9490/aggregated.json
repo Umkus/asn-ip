@@ -1,6 +1,6 @@
 {
   "asn": 9490,
-  "handle": "NIS-KR",
+  "handle": "NIS",
   "description": "Oscar Enterprise",
   "subnets": {
     "ipv4": [

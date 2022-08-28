@@ -1,4 +1,4 @@
-# AS45992 (CG-KR)
+# AS45992 (CG)
 # Construction Guarantee Cooperative
 #
 202.128.100.0/23

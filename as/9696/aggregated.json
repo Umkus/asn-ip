@@ -1,6 +1,6 @@
 {
   "asn": 9696,
-  "handle": "EDAS-KR",
+  "handle": "EDAS",
   "description": "Oscar Enterprise",
   "subnets": {
     "ipv4": [

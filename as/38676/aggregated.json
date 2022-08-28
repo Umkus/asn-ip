@@ -1,6 +1,6 @@
 {
   "asn": 38676,
-  "handle": "FLEXNET-KR",
+  "handle": "FLEXNET",
   "description": "flexnetworks",
   "subnets": {
     "ipv4": [

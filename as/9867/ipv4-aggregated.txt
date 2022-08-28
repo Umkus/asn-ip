@@ -1,4 +1,4 @@
-# AS9867 (JTC-KR)
+# AS9867 (JTC)
 # VISION College of Jeonju
 #
 203.249.35.0/24

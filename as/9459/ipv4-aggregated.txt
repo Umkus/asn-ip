@@ -1,4 +1,4 @@
-# AS9459 (ASKONKUK-KR)
+# AS9459 (ASKONKUK)
 # Konkuk University
 #
 103.218.160.0/22

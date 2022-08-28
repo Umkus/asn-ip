@@ -1,4 +1,4 @@
-# AS17607 (AS5665-KR)
+# AS17607 (AS5665)
 # Mirae Asset Life Insurance Co., Ltd
 #
 103.166.222.0/23

@@ -1,4 +1,4 @@
-# AS38688 (WISEN-KR)
+# AS38688 (WISEN)
 # GSNeotek
 #
 1.227.196.0/24

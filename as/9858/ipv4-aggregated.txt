@@ -1,4 +1,4 @@
-# AS9858 (KRNICNET-KR)
+# AS9858 (KRNICNET)
 # Korea Internet Security Agency
 #
 49.8.0.0/24

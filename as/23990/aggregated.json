@@ -1,6 +1,6 @@
 {
   "asn": 23990,
-  "handle": "MIGUM-KR",
+  "handle": "MIGUM",
   "description": "MigumCableNetwork",
   "subnets": {
     "ipv4": [

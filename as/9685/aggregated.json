@@ -1,6 +1,6 @@
 {
   "asn": 9685,
-  "handle": "FACT-KR",
+  "handle": "FACT",
   "description": "KOAT",
   "subnets": {
     "ipv4": [

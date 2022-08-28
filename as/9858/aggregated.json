@@ -1,6 +1,6 @@
 {
   "asn": 9858,
-  "handle": "KRNICNET-KR",
+  "handle": "KRNICNET",
   "description": "Korea Internet Security Agency",
   "subnets": {
     "ipv4": [

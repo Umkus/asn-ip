@@ -1,4 +1,4 @@
-# AS23576 (NHN-KR)
+# AS23576 (NHN)
 # NAVER Cloud Corp.
 #
 1.255.48.0/20

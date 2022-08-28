@@ -1,4 +1,4 @@
-# AS9764 (DAUM-NET-KR)
+# AS9764 (DAUM-NET)
 # Kakao Corp
 #
 103.27.148.0/23

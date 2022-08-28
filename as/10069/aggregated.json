@@ -1,6 +1,6 @@
 {
   "asn": 10069,
-  "handle": "SMLINE-KR",
+  "handle": "SMLINE",
   "description": "Seoul Metro",
   "subnets": {
     "ipv4": [

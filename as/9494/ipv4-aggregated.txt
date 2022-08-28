@@ -1,4 +1,4 @@
-# AS9494 (KOSINET-KR)
+# AS9494 (KOSINET)
 # National Infomation Society Agency
 #
 202.30.64.0/20

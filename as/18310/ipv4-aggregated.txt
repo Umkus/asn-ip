@@ -1,4 +1,4 @@
-# AS18310 (SKB-VITSSEN-KR)
+# AS18310 (SKB-VITSSEN)
 # SK Broadband Co Ltd
 #
 27.112.128.0/17

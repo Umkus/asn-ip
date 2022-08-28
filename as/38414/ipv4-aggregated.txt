@@ -1,4 +1,4 @@
-# AS38414 (GOESH-KR)
+# AS38414 (GOESH)
 # Gyeonggi  siheung office of education
 #
 118.36.75.0/24

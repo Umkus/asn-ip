@@ -1,4 +1,4 @@
-# AS17614 (GEUMGANG-KR)
+# AS17614 (GEUMGANG)
 # Geumgang University
 #
 203.237.184.0/22

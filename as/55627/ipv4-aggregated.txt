@@ -1,4 +1,4 @@
-# AS55627 (DONGDUK-KR)
+# AS55627 (DONGDUK)
 # Dongduk Womens University
 #
 202.20.119.0/24

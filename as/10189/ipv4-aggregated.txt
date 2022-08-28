@@ -1,4 +1,4 @@
-# AS10189 (HMM-KR)
+# AS10189 (HMM)
 # Hyundai Movex
 #
 203.242.32.0/20

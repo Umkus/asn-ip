@@ -1,4 +1,4 @@
-# AS9273 (SICC-KR)
+# AS9273 (SICC)
 # Ssangyong
 #
 203.224.0.0/16

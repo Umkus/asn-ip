@@ -1,4 +1,4 @@
-# AS7621 (KYONGGI-KR)
+# AS7621 (KYONGGI)
 # Kyonggi University
 #
 117.17.250.0/23

@@ -1,4 +1,4 @@
-# AS55625 (CWUNET-KR)
+# AS55625 (CWUNET)
 # Chungwoon University
 #
 1.247.193.0/24

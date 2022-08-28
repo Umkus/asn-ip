@@ -1,4 +1,4 @@
-# AS23714 (KMUCC-KR)
+# AS23714 (KMUCC)
 # Keimyung University
 #
 61.36.223.0/24

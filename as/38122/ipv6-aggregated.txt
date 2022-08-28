@@ -1,3 +1,3 @@
-# AS38122 (SGIC-KR)
+# AS38122 (SGIC)
 # Seoul Guarantee Insurance Company
 #

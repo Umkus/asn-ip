@@ -1,4 +1,4 @@
-# AS9638 (NH-KR)
+# AS9638 (NH)
 # National Agricultural Cooperative federation
 #
 1.214.72.0/23

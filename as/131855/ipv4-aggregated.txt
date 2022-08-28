@@ -1,4 +1,4 @@
-# AS131855 (TOSSCB-KR)
+# AS131855 (TOSSCB)
 # viva republica
 #
 61.37.225.0/24

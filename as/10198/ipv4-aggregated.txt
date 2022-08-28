@@ -1,4 +1,4 @@
-# AS10198 (CUP-KR)
+# AS10198 (CUP)
 # Catholic University of Pusan
 #
 203.232.208.0/21

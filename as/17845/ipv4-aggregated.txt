@@ -1,4 +1,4 @@
-# AS17845 (GTP-KR)
+# AS17845 (GTP)
 # Gyeonggi Technopark
 #
 110.93.24.0/21

@@ -1,4 +1,4 @@
-# AS38684 (CMBDAEJEON-KR)
+# AS38684 (CMBDAEJEON)
 # CMB Daejeon Broadcasting Co,.Ltd
 #
 45.64.144.0/22

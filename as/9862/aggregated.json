@@ -1,6 +1,6 @@
 {
   "asn": 9862,
-  "handle": "RAYNET1-KR",
+  "handle": "RAYNET1",
   "description": "GORayNet",
   "subnets": {
     "ipv4": [

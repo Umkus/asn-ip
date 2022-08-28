@@ -1,6 +1,6 @@
 {
   "asn": 10044,
-  "handle": "RDA-KR",
+  "handle": "RDA",
   "description": "Rural Development Administration (RDA)",
   "subnets": {
     "ipv4": [

@@ -1,4 +1,4 @@
-# AS9858 (KRNICNET-KR)
+# AS9858 (KRNICNET)
 # Korea Internet Security Agency
 #
 2001:c98::/32

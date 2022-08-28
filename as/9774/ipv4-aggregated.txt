@@ -1,4 +1,4 @@
-# AS9774 (DSU-KR)
+# AS9774 (DSU)
 # Dongseo University
 #
 202.165.56.0/22

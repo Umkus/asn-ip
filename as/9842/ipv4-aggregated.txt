@@ -1,4 +1,4 @@
-# AS9842 (LDCC-KR)
+# AS9842 (LDCC)
 # Lotte Data Communication Company
 #
 58.180.188.0/24

@@ -1,4 +1,4 @@
-# AS55614 (DANAL-KR)
+# AS55614 (DANAL)
 # danal.co
 #
 150.242.132.0/22

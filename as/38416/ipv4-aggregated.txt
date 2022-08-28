@@ -1,4 +1,4 @@
-# AS38416 (GOEYC-KR)
+# AS38416 (GOEYC)
 # Gyeonggi Yeoncheon Office of Education
 #
 124.138.145.0/24

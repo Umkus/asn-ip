@@ -1,6 +1,6 @@
 {
   "asn": 265133,
-  "handle": "-RADIUS",
+  "handle": "RADIUS",
   "description": ". Radius",
   "subnets": {
     "ipv4": [

@@ -1,6 +1,6 @@
 {
   "asn": 10072,
-  "handle": "CHOHUNGBANK-KR",
+  "handle": "CHOHUNGBANK",
   "description": "Shinhan Bank",
   "subnets": {
     "ipv4": [

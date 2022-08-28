@@ -1,4 +1,4 @@
-# AS17863 (YONHAPNEWS-KR)
+# AS17863 (YONHAPNEWS)
 # Yonhap News Agency
 #
 61.40.248.0/24
