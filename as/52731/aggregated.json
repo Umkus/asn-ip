@@ -1,10 +1,11 @@
 {
   "asn": 52731,
-  "handle": "NETNT-SISTEMAS-E",
+  "handle": "NETNT-SISTEMAS",
   "description": "Netnt Sistemas e Informatica Ltda",
   "subnets": {
     "ipv4": [
-      "138.255.140.0/22",
+      "138.255.140.0/24",
+      "138.255.142.0/24",
       "177.84.248.0/21"
     ],
     "ipv6": []

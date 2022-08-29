@@ -1,13 +1,11 @@
 {
   "asn": 270933,
-  "handle": "TRANSTEL-TELECOMUNICAES-E",
+  "handle": "TRANSTEL-TELECOMUNICAES",
   "description": "TRANSTEL TELECOMUNICAES E SISTEMA LTDA",
   "subnets": {
     "ipv4": [
       "186.26.108.0/22"
     ],
-    "ipv6": [
-      "2804:73b8::/32"
-    ]
+    "ipv6": []
   }
 }

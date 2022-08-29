@@ -1,9 +1,11 @@
 {
   "asn": 53004,
-  "handle": "DOWNUP-TELECOMUNICACOES-E",
+  "handle": "DOWNUP-TELECOMUNICACOES",
   "description": "Downup Telecomunicacoes e servico LTDA",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "177.66.200.0/22"
+    ],
     "ipv6": [
       "2804:53c::/33",
       "2804:53c:c000::/34"
