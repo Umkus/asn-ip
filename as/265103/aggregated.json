@@ -1,11 +1,13 @@
 {
   "asn": 265103,
-  "handle": "BIPLINK-SERVICOS",
+  "handle": "BIPLINK-SERVICOS-COMUNICAO",
   "description": "Biplink Servicos de Comunicao Multimidia Ltda ME",
   "subnets": {
     "ipv4": [
       "170.254.100.0/22"
     ],
-    "ipv6": []
+    "ipv6": [
+      "2804:32e4::/32"
+    ]
   }
 }

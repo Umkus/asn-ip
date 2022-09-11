@@ -1,6 +1,6 @@
 {
   "asn": 264169,
-  "handle": "WSP-PROGRESSO",
+  "handle": "WSP-PROGRESSO-SERV",
   "description": "WSP PROGRESSO E SERV DE TELECOMUNICACAO LTDA - ME",
   "subnets": {
     "ipv4": [
@@ -8,7 +8,8 @@
       "138.94.200.0/22"
     ],
     "ipv6": [
-      "2804:238c::/34"
+      "2804:238c::/35",
+      "2804:238c:2000::/36"
     ]
   }
 }

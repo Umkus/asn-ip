@@ -1,11 +1,9 @@
 {
   "asn": 27893,
-  "handle": "UNIVERSIDAD-DE-CARABOBO",
+  "handle": "UNIVERSIDAD-CARABOBO",
   "description": "Universidad de Carabobo",
   "subnets": {
-    "ipv4": [
-      "190.170.64.0/18"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
