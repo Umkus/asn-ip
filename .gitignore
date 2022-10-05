@@ -1,3 +1,4 @@
 node_modules
 .idea
 ranges_ipv4.csv
+ranges_ipv6.csv

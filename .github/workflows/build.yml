@@ -48,4 +48,5 @@ jobs:
           tag_name: latest
           files: |
             ranges_ipv4.csv
+            ranges_ipv6.csv
             as.csv

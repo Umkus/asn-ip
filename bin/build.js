@@ -1,18 +1,27 @@
-const {readdirSync, writeFileSync} = require('fs');
+const { readdirSync, writeFileSync } = require('fs');
 const ipCidr = require('ip-cidr');
 
-const ranges = readdirSync(`${__dirname}/../as`)
-  .map((asn) => {
-    const info = require(`${__dirname}/../as/${asn}/aggregated.json`);
+const asns = readdirSync(`${__dirname}/../as`)
+const ipv4 = []
+const ipv6 = []
 
-    return info.subnets.ipv4.map((cidr) => {
-      const [start, end] = new ipCidr(cidr).toRange({type: 'bigInteger'});
-      return [asn, cidr, +start, +end];
-    });
+for (const i in asns) {
+  const asn = asns[i]
+  const info = require(`${__dirname}/../as/${asn}/aggregated.json`)
+
+  info.subnets.ipv6.forEach((cidr) => {
+    const [start, end] = new ipCidr(cidr).toRange({ type: 'bigInteger' })
+    ipv6.push([asn, cidr, start, end])
   })
 
-const newArr = ranges.reduce((a, b) => a.concat(b), []);
+  info.subnets.ipv4.forEach((cidr) => {
+    const [start, end] = new ipCidr(cidr).toRange({ type: 'bigInteger' })
+    ipv4.push([asn, cidr, start, end])
+  })
+}
 
-newArr.sort((a, b) => a[2] >= b[2] ? 1 : -1);
+ipv4.sort((a, b) => +a[2] >= +b[2] ? 1 : -1);
+ipv6.sort((a, b) => +a[2] >= +b[2] ? 1 : -1);
 
-writeFileSync(`${__dirname}/../ranges_ipv4.csv`, `asn,cidr,start,end\n` + newArr.map((row) => row.join(',')).join('\n'));
+writeFileSync(`${__dirname}/../ranges_ipv4.csv`, `asn,cidr,start,end\n` + ipv4.map((row) => row.join(',')).join('\n'));
+writeFileSync(`${__dirname}/../ranges_ipv6.csv`, `asn,cidr,start,end\n` + ipv6.map((row) => row.join(',')).join('\n'));
