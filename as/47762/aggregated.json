@@ -3,10 +3,7 @@
   "handle": "WESTCLOUD",
   "description": "WEST CLOUD CONTACT SOLUTIONS LIMITED",
   "subnets": {
-    "ipv4": [
-      "91.208.141.0/24",
-      "192.33.132.0/23"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

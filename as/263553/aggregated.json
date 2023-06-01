@@ -1,14 +1,9 @@
 {
   "asn": 263553,
-  "handle": "GIGANET-INTERNET-INFORMATICA",
-  "description": "GIGANET INTERNET E INFORMATICA",
+  "handle": "A-V-SANTOS-JUNIOR-INTERNET",
+  "description": "A. V. DOS SANTOS JUNIOR - INTERNET",
   "subnets": {
-    "ipv4": [
-      "170.245.80.0/22",
-      "186.237.152.0/21"
-    ],
-    "ipv6": [
-      "2804:edc::/32"
-    ]
+    "ipv4": [],
+    "ipv6": []
   }
 }
