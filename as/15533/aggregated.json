@@ -1,7 +1,7 @@
 {
   "asn": 15533,
   "handle": "SASEUROPE",
-  "description": "SunGard Availability Services (UK) Ltd",
+  "description": "Redcentric Solutions Ltd",
   "subnets": {
     "ipv4": [
       "5.32.152.0/21",
@@ -22,7 +22,7 @@
       "213.212.64.0/18"
     ],
     "ipv6": [
-      "2001:4138::/31"
+      "2001:4138::/32"
     ]
   }
 }
