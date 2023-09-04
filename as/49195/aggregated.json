@@ -1,0 +1,13 @@
+{
+  "asn": 49195,
+  "handle": "SSAC",
+  "description": "Shanghai Sunwen Advertising Co., Ltd",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": [
+      "2a0a:280:2d00::/46",
+      "2a0a:280:2d04::/47",
+      "2a13:df80:8000::/38"
+    ]
+  }
+}

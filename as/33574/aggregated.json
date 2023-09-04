@@ -3,9 +3,7 @@
   "handle": "LREMC-01",
   "description": "LREMC Technologies, L.L.C.",
   "subnets": {
-    "ipv4": [
-      "170.62.44.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

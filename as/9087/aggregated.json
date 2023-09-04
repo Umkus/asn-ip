@@ -1,9 +1,10 @@
 {
   "asn": 9087,
-  "handle": "RACKDOG-UK",
+  "handle": "RACKDOG-EU",
   "description": "Rackdog, LLC",
   "subnets": {
     "ipv4": [
+      "141.11.249.0/24",
       "193.46.0.0/24",
       "193.46.200.0/24"
     ],

@@ -37,6 +37,10 @@ This repository is updated daily by pulling all route prefix announcements from 
 
 For the list of autonomous systems with their AS number (ASN) and description see [ipverse-asn-info](https://github.com/ipverse/asn-info)
 
+## Update notes
+
+- 2023-9-3: The airheads at McAfee decided to insert an entire PEM certificate in the description field. The description field is now trimmed to a reasonable size.
+
 ## Use cases
 - Firewalling, e.g. to ban all IP addresses from that notorious, Spam-friendly network provider
 - Route advertisment check, see if/how the routes of a specific autonomous system are seen (even over time, thanks to Git's changelog)
