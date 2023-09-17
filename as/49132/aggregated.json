@@ -1,9 +1,11 @@
 {
   "asn": 49132,
-  "handle": "AARON-RUSSELL",
+  "handle": "AARONRUSSELL",
   "description": "Aaron Russell",
   "subnets": {
     "ipv4": [],
-    "ipv6": []
+    "ipv6": [
+      "2a13:1500:2201::/48"
+    ]
   }
 }

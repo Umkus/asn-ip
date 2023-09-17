@@ -4,7 +4,6 @@
   "description": "Trinity Securities Co., Ltd.",
   "subnets": {
     "ipv4": [
-      "110.170.146.0/24",
       "223.27.227.0/24"
     ],
     "ipv6": []
