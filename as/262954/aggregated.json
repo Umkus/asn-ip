@@ -3,7 +3,12 @@
   "handle": "VIRTUASERVER-INFORMATICA",
   "description": "VirtuaServer Informatica Ltda",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "186.226.56.0/21"
+    ],
+    "ipv6": [
+      "2804:e6c:2000::/35",
+      "2804:e6c:4000::/36"
+    ]
   }
 }

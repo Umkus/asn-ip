@@ -3,7 +3,9 @@
   "handle": "REZEL",
   "description": "Association Rezel",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "137.194.8.0/22"
+    ],
     "ipv6": []
   }
 }

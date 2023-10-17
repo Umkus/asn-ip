@@ -3,7 +3,9 @@
   "handle": "MEGA-TOP-MULTIMDIA",
   "description": "MEGA TOP MULTIMDIA LTDA-ME",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "45.165.24.0/22"
+    ],
     "ipv6": []
   }
 }

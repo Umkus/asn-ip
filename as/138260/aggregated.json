@@ -3,7 +3,9 @@
   "handle": "SHIRSTY9",
   "description": "Shirsty Internet Services Pvt Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.124.172.0/22"
+    ],
     "ipv6": []
   }
 }

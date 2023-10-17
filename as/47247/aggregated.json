@@ -1,0 +1,9 @@
+{
+  "asn": 47247,
+  "handle": "MAXIMUM",
+  "description": "Maximum LLC",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

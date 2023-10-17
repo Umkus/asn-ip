@@ -3,7 +3,10 @@
   "handle": "GDT-VN",
   "description": "Department of Information Technology - General Department of Taxation",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "103.9.200.0/23",
+      "103.9.202.0/24"
+    ],
     "ipv6": []
   }
 }

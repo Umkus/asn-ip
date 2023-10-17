@@ -3,7 +3,9 @@
   "handle": "NILTON-CESAR-BATISTA",
   "description": "nilton cesar batista telecom me",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "207.191.160.0/22"
+    ],
     "ipv6": []
   }
 }

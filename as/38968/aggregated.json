@@ -1,9 +1,11 @@
 {
   "asn": 38968,
   "handle": "TAGORG",
-  "description": "Trademark Agencies Ltd",
+  "description": "Abu-Ghazaleh Intellectual Property Ltd.",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "89.28.216.0/21"
+    ],
     "ipv6": []
   }
 }

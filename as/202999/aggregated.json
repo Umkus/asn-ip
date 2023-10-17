@@ -3,7 +3,11 @@
   "handle": "VTEL",
   "description": "Vostok Telecom LLC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "193.233.9.0/24",
+      "193.233.56.0/22",
+      "193.233.192.0/24"
+    ],
     "ipv6": []
   }
 }

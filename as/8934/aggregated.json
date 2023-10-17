@@ -3,7 +3,10 @@
   "handle": "NITC",
   "description": "National Information Technology Center",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.93.144.0/21",
+      "193.188.64.0/19"
+    ],
     "ipv6": []
   }
 }

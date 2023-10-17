@@ -3,7 +3,11 @@
   "handle": "AMBER-LIGHT",
   "description": "Amber Light GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "37.156.5.0/24"
+    ],
+    "ipv6": [
+      "2a13:ec40::/29"
+    ]
   }
 }

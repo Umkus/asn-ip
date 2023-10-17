@@ -3,7 +3,9 @@
   "handle": "IRC",
   "description": "IRC Engineering NV",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "93.93.108.0/22"
+    ],
     "ipv6": []
   }
 }

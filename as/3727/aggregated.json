@@ -4,8 +4,6 @@
   "description": "Shrubbery Networks",
   "subnets": {
     "ipv4": [],
-    "ipv6": [
-      "2001:418:3fe::/48"
-    ]
+    "ipv6": []
   }
 }

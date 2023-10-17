@@ -3,7 +3,11 @@
   "handle": "MICROTURBO-TELECOMUNICACOES",
   "description": "MICROTURBO TELECOMUNICACOES LTDA-ME",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "191.243.44.0/22"
+    ],
+    "ipv6": [
+      "2804:12b8::/32"
+    ]
   }
 }
