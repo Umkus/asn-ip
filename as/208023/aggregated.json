@@ -3,9 +3,7 @@
   "handle": "GCG",
   "description": "Global Cloud Games for video games and general trading co. ltd",
   "subnets": {
-    "ipv4": [
-      "193.194.143.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }
