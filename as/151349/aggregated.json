@@ -3,7 +3,9 @@
   "handle": "YUKI-NET-AP",
   "description": "Yuki Network Ltd",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "104.234.74.0/24"
+    ],
     "ipv6": [
       "2a06:9f81:3000::/46",
       "2a06:9f81:3004::/48",

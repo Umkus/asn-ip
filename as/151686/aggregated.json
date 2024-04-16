@@ -4,7 +4,7 @@
   "description": "VEDINIRMALA BROADBAND PVT LTD",
   "subnets": {
     "ipv4": [
-      "103.90.38.0/23"
+      "103.90.38.0/24"
     ],
     "ipv6": []
   }

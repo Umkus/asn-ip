@@ -1,7 +1,7 @@
 {
   "asn": 9925,
   "handle": "HKTDCS-AP",
-  "description": "PCCW Powerbase Data Center Services (HK) Limited",
+  "description": "VDC Powerbase Hong Kong Data Centers Limited",
   "subnets": {
     "ipv4": [
       "202.77.128.0/21",
