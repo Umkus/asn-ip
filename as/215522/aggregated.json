@@ -1,15 +1,13 @@
 {
   "asn": 215522,
-  "handle": "LR-REYNOSO",
+  "handle": "THE-QUANTUM-NETWORKS",
   "description": "Leonardo Rodrigo Reynoso Condori",
   "subnets": {
     "ipv4": [],
     "ipv6": [
       "2a06:1281:3000::/36",
-      "2a0a:6044:aa0e::/48",
       "2a0a:6044:c120::/43",
-      "2a0f:85c1:36c::/48",
-      "2a0f:9400:611b::/48"
+      "2a0f:85c1:36c::/48"
     ]
   }
 }

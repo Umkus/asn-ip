@@ -1,0 +1,11 @@
+{
+  "asn": 152218,
+  "handle": "HANACAPITAL",
+  "description": "HANA CAPITAL",
+  "subnets": {
+    "ipv4": [
+      "58.232.233.0/24"
+    ],
+    "ipv6": []
+  }
+}

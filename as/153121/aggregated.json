@@ -1,0 +1,11 @@
+{
+  "asn": 153121,
+  "handle": "IDNIC-SOLUXIO-ID",
+  "description": "PT Pcr Solusi Teknologi",
+  "subnets": {
+    "ipv4": [
+      "160.187.144.0/23"
+    ],
+    "ipv6": []
+  }
+}
