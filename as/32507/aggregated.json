@@ -1,0 +1,9 @@
+{
+  "asn": 32507,
+  "handle": "LYON-LR-01",
+  "description": "LYON COLLEGE",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}
