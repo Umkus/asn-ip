@@ -1,6 +1,6 @@
 {
   "asn": 47536,
-  "handle": "EDV-UND-INTERNET",
+  "handle": "PATHCONNECT",
   "description": "Joey Julian Koenig trading as PathConnect GbR",
   "subnets": {
     "ipv4": [
@@ -10,7 +10,8 @@
     "ipv6": [
       "2001:678:a00::/48",
       "2a12:79c0:100::/48",
-      "2a12:79c0:200::/48"
+      "2a12:79c0:200::/48",
+      "2a12:79c0:300::/48"
     ]
   }
 }
