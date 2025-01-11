@@ -1,11 +1,9 @@
 {
   "asn": 197740,
-  "handle": "TVTRUJILLO",
-  "description": "Television Trujillo S.L.",
+  "handle": "RESERVED",
+  "description": "RIPE NCC ASN block",
   "subnets": {
-    "ipv4": [
-      "89.29.252.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

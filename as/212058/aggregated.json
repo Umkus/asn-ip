@@ -1,0 +1,9 @@
+{
+  "asn": 212058,
+  "handle": "BILGI",
+  "description": "Istanbul Bilgi University",
+  "subnets": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}
