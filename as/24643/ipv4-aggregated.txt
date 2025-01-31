@@ -1,4 +1,3 @@
-# AS24643 (EU-UPC)
+# AS24643 (NL-LIBERTYGLOBAL)
 # Liberty Global B.V.
 #
-185.72.122.0/24

@@ -1,7 +1,7 @@
 {
   "asn": 214971,
-  "handle": "RESERVED",
-  "description": "RIPE NCC ASN block",
+  "handle": "JANN-MIETZNER",
+  "description": "Jann Mietzner",
   "subnets": {
     "ipv4": [],
     "ipv6": []
