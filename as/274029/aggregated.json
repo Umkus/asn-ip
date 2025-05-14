@@ -3,11 +3,8 @@
   "handle": "KAZAV-LATAM-EIRL",
   "description": "KAZAV LATAM E.I.R.L.",
   "subnets": {
-    "ipv4": [
-      "45.173.74.0/24"
-    ],
+    "ipv4": [],
     "ipv6": [
-      "2800:650:11f::/48",
       "2803:ecd0::/32"
     ]
   }
