@@ -1,7 +1,7 @@
 {
   "asn": 267961,
-  "handle": "FRAGA-COMUNICACAO-MANUTENCAO",
-  "description": "FRAGA COMUNICACAO E MANUTENCAO DE EQUIPAMENTOS",
+  "handle": "FRAGA-SOFTWARE-TELECOMUNICAO",
+  "description": "FRAGA SOFTWARE E TELECOMUNICAO",
   "subnets": {
     "ipv4": [
       "45.165.161.0/24",
