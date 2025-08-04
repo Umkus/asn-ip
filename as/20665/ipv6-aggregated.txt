@@ -1,3 +1,3 @@
-# AS20665 (VARNANET)
-# Varna Net Ltd.
+# AS20665 (VARNANET-AS)
+# Varna Net Ltd
 #

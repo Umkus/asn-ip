@@ -1,4 +1,4 @@
-# AS135254 (MAITREE)
+# AS135254 (MAITREE-AS)
 # Maitree Telecom Private Limited
 #
 45.248.32.0/23

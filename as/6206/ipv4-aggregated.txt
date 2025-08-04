@@ -1,5 +1,5 @@
-# AS6206 (NETROUTING)
-# Netrouting B.V.
+# AS6206 (NETROUTING-AS)
+# Netrouting B.V
 #
 37.46.192.0/21
 45.88.216.0/22

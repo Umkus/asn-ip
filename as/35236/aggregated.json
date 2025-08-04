@@ -1,7 +1,7 @@
 {
   "asn": 35236,
-  "handle": "UVT-INTERNET-SRO",
-  "description": "UVT Internet s.r.o.",
+  "handle": "AS35236",
+  "description": "UVT Internet s.r.o",
   "subnets": {
     "ipv4": [
       "31.170.176.0/21",

@@ -1,4 +1,4 @@
-# AS49008 (ELSTIR)
-# Elstir S.L.
+# AS49008 (ELSTIR-AS)
+# Elstir S.L
 #
 195.88.148.0/23

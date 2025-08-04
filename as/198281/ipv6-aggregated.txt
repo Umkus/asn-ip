@@ -1,3 +1,3 @@
-# AS198281 (WEBSAS)
-# Websas.hu Kft.
+# AS198281 (WEBSAS-AS)
+# Websas.hu Kft
 #

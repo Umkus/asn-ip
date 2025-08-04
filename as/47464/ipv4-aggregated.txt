@@ -1,3 +1,3 @@
-# AS47464 (AM)
-# Address Management Inc.
+# AS47464 (AM-AS)
+# Address Management Inc
 #

@@ -1,7 +1,7 @@
 {
   "asn": 14688,
-  "handle": "GLOBALVIEW-SOFTWARE-INC",
-  "description": "GlobalView Software Inc.",
+  "handle": "AS14688",
+  "description": "GlobalView Software Inc",
   "subnets": {
     "ipv4": [
       "206.155.48.0/24"

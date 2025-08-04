@@ -1,7 +1,7 @@
 {
   "asn": 7256,
-  "handle": "VIACOM",
-  "description": "Viacom Inc.",
+  "handle": "VIACOM-AS",
+  "description": "Viacom Inc",
   "subnets": {
     "ipv4": [
       "166.77.0.0/23",

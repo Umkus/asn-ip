@@ -1,7 +1,7 @@
 {
   "asn": 151360,
-  "handle": "SNPI-AP",
-  "description": "SONIC NETWORKS PHL INC.",
+  "handle": "SNPI-AS-AP",
+  "description": "SONIC NETWORKS PHL INC",
   "subnets": {
     "ipv4": [
       "103.208.88.0/23"

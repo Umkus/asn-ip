@@ -1,7 +1,7 @@
 {
   "asn": 136261,
-  "handle": "VERTIVCO-AP",
-  "description": "VERTIV (SINGAPORE) PTE. LTD.",
+  "handle": "VERTIVCO-AS-AP",
+  "description": "VERTIV (SINGAPORE) PTE. LTD",
   "subnets": {
     "ipv4": [
       "160.22.39.0/24"

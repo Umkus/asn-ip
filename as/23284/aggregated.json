@@ -1,7 +1,7 @@
 {
   "asn": 23284,
-  "handle": "COMPL",
-  "description": "Complete Genomics Inc.",
+  "handle": "COMPL-AS",
+  "description": "Complete Genomics Inc",
   "subnets": {
     "ipv4": [
       "74.119.221.0/24",

@@ -1,7 +1,7 @@
 {
   "asn": 34917,
-  "handle": "ORLANDONET",
-  "description": "Orlandonet ltd.",
+  "handle": "ORLANDONET-AS",
+  "description": "Orlandonet ltd",
   "subnets": {
     "ipv4": [
       "62.182.112.0/21",

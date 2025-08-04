@@ -1,7 +1,7 @@
 {
   "asn": 197881,
-  "handle": "KONTRON",
-  "description": "KRONTRON d.o.o.",
+  "handle": "AS-KONTRON",
+  "description": "KRONTRON d.o.o",
   "subnets": {
     "ipv4": [
       "91.227.110.0/23"

@@ -1,3 +1,3 @@
-# AS60458 (XTUDIONET)
-# Xtudio Networks S.L.U.
+# AS60458 (ASN-XTUDIONET)
+# Xtudio Networks S.L.U
 #

@@ -1,7 +1,7 @@
 {
   "asn": 38428,
-  "handle": "KICC",
-  "description": "Korea Information Communicaions Co.",
+  "handle": "KICC-AS",
+  "description": "Korea Information Communicaions Co",
   "subnets": {
     "ipv4": [
       "61.33.205.0/24",

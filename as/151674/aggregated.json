@@ -1,11 +1,10 @@
 {
   "asn": 151674,
-  "handle": "HYU-AP",
+  "handle": "HYU-AS-AP",
   "description": "Cheng Yijia",
   "subnets": {
     "ipv4": [],
     "ipv6": [
-      "2406:840:e720::/44",
       "2406:840:fedf::/48"
     ]
   }

@@ -1,6 +1,6 @@
 {
   "asn": 153935,
-  "handle": "MBNETWORK-AP",
+  "handle": "MBNETWORK-AS-AP",
   "description": "MB Network",
   "subnets": {
     "ipv4": [

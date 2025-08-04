@@ -1,7 +1,7 @@
 {
   "asn": 33063,
-  "handle": "CUBIT",
-  "description": "Cubit Computer Ltd. Liability Co.",
+  "handle": "AS-CUBIT",
+  "description": "Cubit Computer Ltd. Liability Co",
   "subnets": {
     "ipv4": [],
     "ipv6": []

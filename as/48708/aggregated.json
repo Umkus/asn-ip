@@ -1,7 +1,7 @@
 {
   "asn": 48708,
-  "handle": "OMAX-NETWORK",
-  "description": "Omax Network d.o.o.",
+  "handle": "OMAX-NETWORK-AS",
+  "description": "Omax Network d.o.o",
   "subnets": {
     "ipv4": [
       "185.202.79.0/24",

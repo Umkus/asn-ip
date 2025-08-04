@@ -1,5 +1,5 @@
-# AS20473 (VULTR)
-# The Constant Company, LLC
+# AS20473 (AS-VULTR)
+# The Constant Company LLC
 #
 2001:19f0::/38
 2001:19f0:ccc::/47

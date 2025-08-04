@@ -1,6 +1,6 @@
 {
   "asn": 18229,
-  "handle": "CTRLS-IN",
+  "handle": "CTRLS-AS-IN",
   "description": "CtrlS",
   "subnets": {
     "ipv4": [

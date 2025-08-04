@@ -1,3 +1,3 @@
-# AS61118 (VIKOM)
-# Vikom Ltd.
+# AS61118 (VIKOM-AS)
+# Vikom Ltd
 #

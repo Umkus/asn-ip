@@ -1,6 +1,6 @@
 {
   "asn": 153383,
-  "handle": "NAZIMHOST-AP",
+  "handle": "NAZIMHOST-AS-AP",
   "description": "Nazim Host",
   "subnets": {
     "ipv4": [

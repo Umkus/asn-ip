@@ -1,5 +1,5 @@
-# AS3215 (ORANGE-SA)
-# Orange S.A.
+# AS3215 (AS3215)
+# Orange S.A
 #
 2.3.0.0/16
 2.4.0.0/14

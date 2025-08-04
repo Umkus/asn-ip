@@ -1,7 +1,7 @@
 {
   "asn": 151810,
-  "handle": "PHYLAXISINC-AP",
-  "description": "Phylaxis Inc.",
+  "handle": "PHYLAXISINC-AS-AP",
+  "description": "Phylaxis Inc",
   "subnets": {
     "ipv4": [],
     "ipv6": [

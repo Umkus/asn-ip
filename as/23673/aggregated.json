@@ -1,7 +1,7 @@
 {
   "asn": 23673,
-  "handle": "ONLINE",
-  "description": "COGETEL LTD.",
+  "handle": "ONLINE-AS",
+  "description": "COGETEL LTD",
   "subnets": {
     "ipv4": [
       "43.230.192.0/22",

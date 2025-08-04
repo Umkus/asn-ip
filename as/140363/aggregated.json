@@ -1,7 +1,7 @@
 {
   "asn": 140363,
-  "handle": "FZNTCL-AP",
-  "description": "Fuzhou Zhongxu Network Technology Co. Ltd.",
+  "handle": "FZNTCL-AS-AP",
+  "description": "Fuzhou Zhongxu Network Technology Co. Ltd",
   "subnets": {
     "ipv4": [],
     "ipv6": []

@@ -1,7 +1,7 @@
 {
   "asn": 8903,
-  "handle": "LYNTIA-NETWORKS-SA",
-  "description": "LYNTIA NETWORKS S.A.",
+  "handle": "AS8903",
+  "description": "LYNTIA NETWORKS S.A",
   "subnets": {
     "ipv4": [
       "154.62.64.0/23",

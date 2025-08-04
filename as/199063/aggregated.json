@@ -1,7 +1,7 @@
 {
   "asn": 199063,
-  "handle": "PEREMENA",
-  "description": "Peremena Ltd.",
+  "handle": "PEREMENA-AS",
+  "description": "Peremena Ltd",
   "subnets": {
     "ipv4": [
       "193.104.139.0/24"

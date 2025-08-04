@@ -1,4 +1,4 @@
-# AS201498 (MXMANAGEMENT)
-# MX Management Ltd.
+# AS201498 (MXMANAGEMENT-AS)
+# MX Management Ltd
 #
 83.242.98.0/24

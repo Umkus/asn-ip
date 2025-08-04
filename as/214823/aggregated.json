@@ -1,7 +1,7 @@
 {
   "asn": 214823,
-  "handle": "NOVA-HOSTING-VE",
-  "description": "NOVA HOSTING VE BILISIM TEKNOLOJILERI A.S.",
+  "handle": "AS214823",
+  "description": "NOVA HOSTING VE BILISIM TEKNOLOJILERI A.S",
   "subnets": {
     "ipv4": [
       "84.247.20.0/24"

@@ -1,7 +1,7 @@
 {
   "asn": 205070,
-  "handle": "ATST",
-  "description": "ATC Telecom LTD.",
+  "handle": "ATST-AS",
+  "description": "ATC Telecom LTD",
   "subnets": {
     "ipv4": [
       "158.255.84.0/22"

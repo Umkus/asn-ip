@@ -1,7 +1,7 @@
 {
   "asn": 21488,
-  "handle": "EMPLOT",
-  "description": "Emplot Ltd.",
+  "handle": "EMPLOT-AS",
+  "description": "Emplot Ltd",
   "subnets": {
     "ipv4": [
       "193.110.106.0/23",

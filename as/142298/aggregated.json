@@ -1,10 +1,10 @@
 {
   "asn": 142298,
-  "handle": "NEWTOPLINK-AP",
+  "handle": "NEWTOPLINK-AS-AP",
   "description": "New Top Link",
   "subnets": {
     "ipv4": [
-      "103.167.191.0/24"
+      "103.167.190.0/23"
     ],
     "ipv6": []
   }

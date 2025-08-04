@@ -1,6 +1,6 @@
 {
   "asn": 153342,
-  "handle": "MRITSERVICES-AP",
+  "handle": "MRITSERVICES-AS-AP",
   "description": "MR IT Services",
   "subnets": {
     "ipv4": [

@@ -1,7 +1,7 @@
 {
   "asn": 134041,
-  "handle": "NCORECREATIVETECHNOLOGIES-IN",
-  "description": "Ncore Creative Technologies Pvt.Ltd.",
+  "handle": "NCORECREATIVETECHNOLOGIES-AS-IN",
+  "description": "Ncore Creative Technologies Pvt.Ltd",
   "subnets": {
     "ipv4": [
       "103.6.90.0/23",

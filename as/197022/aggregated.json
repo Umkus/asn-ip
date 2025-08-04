@@ -1,7 +1,7 @@
 {
   "asn": 197022,
-  "handle": "POSTEL",
-  "description": "Postel S.p.A.",
+  "handle": "POSTEL-AS",
+  "description": "Postel S.p.A",
   "subnets": {
     "ipv4": [
       "91.216.17.0/24"

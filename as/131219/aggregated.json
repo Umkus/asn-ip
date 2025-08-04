@@ -1,7 +1,7 @@
 {
   "asn": 131219,
-  "handle": "ISPL-AP",
-  "description": "Indosat Singapore Pte. Ltd.",
+  "handle": "ISPL-AS-AP",
+  "description": "Indosat Singapore Pte. Ltd",
   "subnets": {
     "ipv4": [
       "103.68.94.0/24"

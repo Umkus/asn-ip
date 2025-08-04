@@ -1,7 +1,7 @@
 {
   "asn": 153891,
-  "handle": "CCL-AP",
-  "description": "CloudSIM Corporation Ltd.",
+  "handle": "CCL-AS-AP",
+  "description": "CloudSIM Corporation Ltd",
   "subnets": {
     "ipv4": [],
     "ipv6": [

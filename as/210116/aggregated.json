@@ -1,9 +1,11 @@
 {
   "asn": 210116,
   "handle": "PS-QUINTIEZ",
-  "description": "Quintiez Alfa General Trading Co.",
+  "description": "Quintiez Alfa General Trading Co",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "217.147.2.0/23"
+    ],
     "ipv6": []
   }
 }

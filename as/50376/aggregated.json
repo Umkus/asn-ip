@@ -1,7 +1,7 @@
 {
   "asn": 50376,
-  "handle": "BEFFECT",
-  "description": "BEFFECT S.R.L.",
+  "handle": "BEFFECT-ASN",
+  "description": "BEFFECT S.R.L",
   "subnets": {
     "ipv4": [
       "212.6.59.0/24"

@@ -1,6 +1,6 @@
 {
   "asn": 132060,
-  "handle": "HANTHARNET-AP",
+  "handle": "HANTHARNET-AS-AP",
   "description": "Hanthar Net",
   "subnets": {
     "ipv4": [

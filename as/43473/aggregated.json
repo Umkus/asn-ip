@@ -1,7 +1,7 @@
 {
   "asn": 43473,
-  "handle": "BRCI",
-  "description": "BANCA ROMANA DE CREDITE SI INVESTITII S.A.",
+  "handle": "BRCI-AS",
+  "description": "BANCA ROMANA DE CREDITE SI INVESTITII S.A",
   "subnets": {
     "ipv4": [
       "91.195.14.0/23"

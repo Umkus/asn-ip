@@ -1,4 +1,4 @@
-# AS24682 (KSF)
-# KSF Ltd.
+# AS24682 (KSF-ASN)
+# KSF Ltd
 #
 212.40.47.0/24

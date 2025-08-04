@@ -1,7 +1,7 @@
 {
   "asn": 139526,
-  "handle": "REVNBB",
-  "description": "Revolution Broadband Pvt.ltd.",
+  "handle": "REVNBB-AS",
+  "description": "Revolution Broadband Pvt.ltd",
   "subnets": {
     "ipv4": [
       "103.146.0.0/23"

@@ -1,7 +1,7 @@
 {
   "asn": 134434,
-  "handle": "GFL-AP",
-  "description": "GFL SYSTEMS CLARK INC.",
+  "handle": "GFL-AS-AP",
+  "description": "GFL SYSTEMS CLARK INC",
   "subnets": {
     "ipv4": [],
     "ipv6": []

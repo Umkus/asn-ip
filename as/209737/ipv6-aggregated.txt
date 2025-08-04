@@ -1,5 +1,5 @@
-# AS209737 (MERIC-INTERNET-TEKNOLOJILERI)
-# Meric Internet Teknolojileri A.S.
+# AS209737 (AS209737)
+# Meric Internet Teknolojileri A.S
 #
 2a09:8780::/29
 2a0f:b700::/29

@@ -1,7 +1,7 @@
 {
   "asn": 24023,
-  "handle": "JNPR-APAC-AP",
-  "description": "Juniper Networks (Hong Kong) Ltd.",
+  "handle": "JNPR-APAC-AS-AP",
+  "description": "Juniper Networks (Hong Kong) Ltd",
   "subnets": {
     "ipv4": [
       "116.197.180.0/24",

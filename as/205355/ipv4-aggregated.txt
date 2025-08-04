@@ -1,4 +1,4 @@
-# AS205355 (CCC)
-# CCC.eu Sp. z o.o.
+# AS205355 (CCC-AS)
+# CCC.eu Sp. z o.o
 #
 88.220.94.0/24

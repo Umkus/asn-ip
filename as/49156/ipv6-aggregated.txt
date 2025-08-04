@@ -1,3 +1,3 @@
-# AS49156 (IZHLINE)
-# Izhline Ltd.
+# AS49156 (IZHLINE-AS)
+# Izhline Ltd
 #

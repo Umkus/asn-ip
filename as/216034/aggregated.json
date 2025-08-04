@@ -1,7 +1,7 @@
 {
   "asn": 216034,
-  "handle": "NETKIA",
-  "description": "NETKIA SOLUCIONES S.L.",
+  "handle": "NETKIA-AS",
+  "description": "NETKIA SOLUCIONES S.L",
   "subnets": {
     "ipv4": [
       "185.91.137.0/24"

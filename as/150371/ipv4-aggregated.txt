@@ -1,4 +1,4 @@
-# AS150371 (PTABPL-AP)
+# AS150371 (PTABPL-AS-AP)
 # Pace Telecom and Brodcasting Private Limited
 #
 103.19.48.0/23
@@ -8,4 +8,3 @@
 103.204.33.0/24
 123.253.93.0/24
 123.253.95.0/24
-163.61.129.0/24

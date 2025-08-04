@@ -1,7 +1,7 @@
 {
   "asn": 41098,
-  "handle": "NETFOX",
-  "description": "NetFox Ltd.",
+  "handle": "NETFOX-AS",
+  "description": "NetFox Ltd",
   "subnets": {
     "ipv4": [
       "178.212.8.0/21",

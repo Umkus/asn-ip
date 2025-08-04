@@ -1,7 +1,7 @@
 {
   "asn": 201871,
-  "handle": "TIC",
-  "description": "Tehran Internet Co.",
+  "handle": "TIC-AS",
+  "description": "Tehran Internet Co",
   "subnets": {
     "ipv4": [
       "212.80.4.0/24"

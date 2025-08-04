@@ -1,7 +1,7 @@
 {
   "asn": 50031,
-  "handle": "ZALASZAM",
-  "description": "Zalaszam Informatika Kft.",
+  "handle": "ZALASZAM-AS",
+  "description": "Zalaszam Informatika Kft",
   "subnets": {
     "ipv4": [
       "109.69.112.0/21"

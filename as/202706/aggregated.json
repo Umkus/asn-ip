@@ -1,7 +1,7 @@
 {
   "asn": 202706,
-  "handle": "KEENMOBILE",
-  "description": "KeenSystems B.V.",
+  "handle": "KEENMOBILE-AS",
+  "description": "KeenSystems B.V",
   "subnets": {
     "ipv4": [],
     "ipv6": [

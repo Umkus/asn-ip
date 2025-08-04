@@ -1,7 +1,7 @@
 {
   "asn": 31059,
-  "handle": "AVELACOM",
-  "description": "Avelacom Business Ltd.",
+  "handle": "AVELACOM-AS",
+  "description": "Avelacom Business Ltd",
   "subnets": {
     "ipv4": [],
     "ipv6": []

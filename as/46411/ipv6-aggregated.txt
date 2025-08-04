@@ -1,3 +1,3 @@
-# AS46411 (IDA-ATL-NET)
-# LexisNexis Risk Solutions FL Inc.
+# AS46411 (IDA-ATL-NET-ASN)
+# LexisNexis Risk Solutions FL Inc
 #

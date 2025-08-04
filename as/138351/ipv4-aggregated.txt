@@ -1,3 +1,3 @@
-# AS138351 (BKTCL-AP)
-# Beijing Kouding Technology Co Ltd.
+# AS138351 (BKTCL-AS-AP)
+# Beijing Kouding Technology Co Ltd
 #

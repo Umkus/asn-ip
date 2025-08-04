@@ -1,7 +1,7 @@
 {
   "asn": 204323,
-  "handle": "NOVEX",
-  "description": "Novex Ltd.",
+  "handle": "NOVEX-AS",
+  "description": "Novex Ltd",
   "subnets": {
     "ipv4": [
       "146.158.14.0/24"

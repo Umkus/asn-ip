@@ -1,7 +1,7 @@
 {
   "asn": 45863,
-  "handle": "YAHOO-AP",
-  "description": "Yahoo Inc.",
+  "handle": "YAHOO-AS-AP",
+  "description": "Yahoo Inc",
   "subnets": {
     "ipv4": [],
     "ipv6": []

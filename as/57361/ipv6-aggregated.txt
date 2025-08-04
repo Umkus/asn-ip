@@ -1,3 +1,3 @@
-# AS57361 (STARNET)
-# Starnet Networks Ltd.
+# AS57361 (STARNET-ASN)
+# Starnet Networks Ltd
 #

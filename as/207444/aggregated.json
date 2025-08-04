@@ -1,7 +1,7 @@
 {
   "asn": 207444,
-  "handle": "ITURAN",
-  "description": "Ituran Location and Control Ltd.",
+  "handle": "ITURAN-AS",
+  "description": "Ituran Location and Control Ltd",
   "subnets": {
     "ipv4": [
       "94.188.194.0/24",

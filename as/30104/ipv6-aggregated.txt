@@ -1,3 +1,3 @@
-# AS30104 (ABCC)
-# GTel Networks inc.
+# AS30104 (ABCC-30104)
+# GTel Networks inc
 #

@@ -1,3 +1,3 @@
-# AS25332 (LINKOS)
-# Linkos Ltd.
+# AS25332 (LINKOS-AS)
+# Linkos Ltd
 #

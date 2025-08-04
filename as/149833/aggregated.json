@@ -1,7 +1,7 @@
 {
   "asn": 149833,
-  "handle": "WRKPODINC-PH-AP",
-  "description": "Wrkpod Inc.",
+  "handle": "WRKPODINC-PH-AS-AP",
+  "description": "Wrkpod Inc",
   "subnets": {
     "ipv4": [
       "103.187.140.0/23"

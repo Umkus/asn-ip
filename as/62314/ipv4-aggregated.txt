@@ -1,5 +1,5 @@
-# AS62314 (ATMOSPHERICA)
-# Atmospherica Ltd.
+# AS62314 (ATMOSPHERICA-AS)
+# Atmospherica Ltd
 #
 89.20.37.0/24
 89.20.38.0/23

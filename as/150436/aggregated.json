@@ -1,7 +1,7 @@
 {
   "asn": 150436,
-  "handle": "BYTEPLUS-AP",
-  "description": "Byteplus Pte. Ltd.",
+  "handle": "BYTEPLUS-AS-AP",
+  "description": "Byteplus Pte. Ltd",
   "subnets": {
     "ipv4": [
       "45.78.192.0/18",

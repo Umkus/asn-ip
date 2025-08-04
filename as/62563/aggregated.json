@@ -1,7 +1,7 @@
 {
   "asn": 62563,
-  "handle": "GLOBALTELEHOST",
-  "description": "GLOBALTELEHOST Corp.",
+  "handle": "AS-GLOBALTELEHOST",
+  "description": "GLOBALTELEHOST Corp",
   "subnets": {
     "ipv4": [
       "23.162.56.0/24",

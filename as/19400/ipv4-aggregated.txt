@@ -1,5 +1,5 @@
-# AS19400 (SPX-FLOW)
-# SPX Flow Inc.
+# AS19400 (SPX-FLOW-AS)
+# SPX Flow Inc
 #
 167.236.8.0/24
 167.236.10.0/24

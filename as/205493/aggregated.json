@@ -1,7 +1,7 @@
 {
   "asn": 205493,
-  "handle": "TRASNA-CELLULAR",
-  "description": "TRASNA CELLULAR S.P.A.",
+  "handle": "TRASNA-CELLULAR-AS",
+  "description": "TRASNA CELLULAR S.P.A",
   "subnets": {
     "ipv4": [
       "185.215.192.0/22"

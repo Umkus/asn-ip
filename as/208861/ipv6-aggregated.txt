@@ -1,4 +1,4 @@
-# AS208861 (NETOWSKI)
-# NETOWSKI sp. z o.o.
+# AS208861 (NETOWSKI-AS)
+# NETOWSKI sp. z o.o
 #
 2a13:59c0::/32

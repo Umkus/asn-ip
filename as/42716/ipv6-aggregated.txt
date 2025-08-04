@@ -1,3 +1,3 @@
-# AS42716 (ASSAN-BILISIM)
-# Assan Bilisim A.S.
+# AS42716 (ASSAN-BILISIM-ASN)
+# Assan Bilisim A.S
 #

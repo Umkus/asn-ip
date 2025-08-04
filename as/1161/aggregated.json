@@ -1,7 +1,7 @@
 {
   "asn": 1161,
-  "handle": "TUE",
-  "description": "SURF B.V.",
+  "handle": "AS-TUE",
+  "description": "SURF B.V",
   "subnets": {
     "ipv4": [
       "131.155.0.0/16",

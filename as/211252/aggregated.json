@@ -1,7 +1,7 @@
 {
   "asn": 211252,
-  "handle": "AKARI-JP",
-  "description": "Akari Networks K.K.",
+  "handle": "AKARI-AS-JP",
+  "description": "Akari Networks K.K",
   "subnets": {
     "ipv4": [
       "103.20.36.0/22"

@@ -1,7 +1,7 @@
 {
   "asn": 47963,
-  "handle": "INTRALINE",
-  "description": "IntraLine Ltd.",
+  "handle": "INTRALINE-AS",
+  "description": "IntraLine Ltd",
   "subnets": {
     "ipv4": [],
     "ipv6": []

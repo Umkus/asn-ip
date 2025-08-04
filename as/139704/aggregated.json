@@ -1,11 +1,9 @@
 {
   "asn": 139704,
-  "handle": "AGBC",
+  "handle": "AS-AGBC",
   "description": "AGB Communication Co.Ltd",
   "subnets": {
-    "ipv4": [
-      "185.205.143.0/24"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

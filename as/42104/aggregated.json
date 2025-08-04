@@ -1,7 +1,7 @@
 {
   "asn": 42104,
-  "handle": "CENTRLAN",
-  "description": "Maxima Ltd.",
+  "handle": "CENTRLAN-AS",
+  "description": "Maxima Ltd",
   "subnets": {
     "ipv4": [
       "176.106.64.0/19",

@@ -1,7 +1,7 @@
 {
   "asn": 137418,
-  "handle": "SAVANT-MANILA-AP",
-  "description": "Savant Technologies Inc.",
+  "handle": "SAVANT-MANILA-AS-AP",
+  "description": "Savant Technologies Inc",
   "subnets": {
     "ipv4": [
       "103.197.201.0/24"

@@ -1,3 +1,3 @@
-# AS60021 (EDGE)
-# Edge Cloud (SG) Pte. Ltd.
+# AS60021 (AS-EDGE)
+# Edge Cloud (SG) Pte. Ltd
 #

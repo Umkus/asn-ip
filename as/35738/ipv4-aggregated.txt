@@ -1,5 +1,5 @@
-# AS35738 (KVANT)
-# Kvant ltd.
+# AS35738 (KVANT-AS)
+# Kvant ltd
 #
 80.245.240.0/20
 185.198.40.0/22

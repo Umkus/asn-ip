@@ -1,3 +1,3 @@
-# AS139529 (FASTTELE)
-# Fastcom Telelink Pvt. Ltd.
+# AS139529 (FASTTELE-AS)
+# Fastcom Telelink Pvt. Ltd
 #

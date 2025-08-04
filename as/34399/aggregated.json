@@ -1,7 +1,7 @@
 {
   "asn": 34399,
-  "handle": "MOBISNET",
-  "description": "MOBISNET ltd.",
+  "handle": "MOBISNET-AS",
+  "description": "MOBISNET ltd",
   "subnets": {
     "ipv4": [
       "195.114.120.0/23"

@@ -1,3 +1,3 @@
-# AS50995 (IBM-IL)
-# IBM Israel-Science and technology Ltd.
+# AS50995 (IBM-IL-ASN)
+# IBM Israel-Science and technology Ltd
 #

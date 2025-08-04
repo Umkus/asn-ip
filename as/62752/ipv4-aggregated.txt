@@ -1,4 +1,4 @@
-# AS62752 (PH-285)
-# Pegboard Hosting Inc.
+# AS62752 (PH-285-62752)
+# Pegboard Hosting Inc
 #
 198.51.75.0/24

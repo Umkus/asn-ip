@@ -1,7 +1,7 @@
 {
   "asn": 201746,
-  "handle": "OLIVENET",
-  "description": "Olivenet Network S.L.",
+  "handle": "OLIVENET-AS",
+  "description": "Olivenet Network S.L",
   "subnets": {
     "ipv4": [
       "45.66.212.0/23",

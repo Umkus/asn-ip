@@ -1,7 +1,7 @@
 {
   "asn": 49209,
-  "handle": "CTE",
-  "description": "China Telecom Europe Ltd.",
+  "handle": "CTE-ASN",
+  "description": "China Telecom Europe Ltd",
   "subnets": {
     "ipv4": [
       "95.130.195.0/24"

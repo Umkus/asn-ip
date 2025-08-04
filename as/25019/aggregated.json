@@ -1,6 +1,6 @@
 {
   "asn": 25019,
-  "handle": "SAUDINETSTC",
+  "handle": "SAUDINETSTC-AS",
   "description": "Saudi Telecom Company JSC",
   "subnets": {
     "ipv4": [

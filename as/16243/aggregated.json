@@ -1,7 +1,7 @@
 {
   "asn": 16243,
-  "handle": "VIRTU",
-  "description": "Virtu Secure Webservices B.V.",
+  "handle": "VIRTU-AS",
+  "description": "Virtu Secure Webservices B.V",
   "subnets": {
     "ipv4": [],
     "ipv6": []

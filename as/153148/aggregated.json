@@ -1,6 +1,6 @@
 {
   "asn": 153148,
-  "handle": "IDNIC-BHATARANET-ID",
+  "handle": "IDNIC-BHATARANET-AS-ID",
   "description": "PT Bhatara Net",
   "subnets": {
     "ipv4": [

@@ -1,7 +1,7 @@
 {
   "asn": 138274,
-  "handle": "GIGALO-IN",
-  "description": "Gigalo Communication Pvt. Ltd.",
+  "handle": "GIGALO-AS-IN",
+  "description": "Gigalo Communication Pvt. Ltd",
   "subnets": {
     "ipv4": [
       "103.132.204.0/22"

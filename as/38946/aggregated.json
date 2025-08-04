@@ -1,7 +1,7 @@
 {
   "asn": 38946,
-  "handle": "SMARTMEDIANETWORK-1",
-  "description": "DEMENIN B.V.",
+  "handle": "SMARTMEDIANETWORK-1-AS",
+  "description": "DEMENIN B.V",
   "subnets": {
     "ipv4": [
       "193.162.138.0/24"

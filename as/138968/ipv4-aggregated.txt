@@ -1,4 +1,4 @@
-# AS138968 (RAINBOWIDC-AP)
+# AS138968 (RAINBOWIDC-AS-AP)
 # rainbow network limited
 #
 60.200.32.0/19

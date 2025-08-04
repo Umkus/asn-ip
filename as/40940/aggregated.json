@@ -1,7 +1,7 @@
 {
   "asn": 40940,
-  "handle": "RELIABLE",
-  "description": "VURGE INC.",
+  "handle": "AS-RELIABLE",
+  "description": "VURGE INC",
   "subnets": {
     "ipv4": [],
     "ipv6": []

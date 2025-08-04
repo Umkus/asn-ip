@@ -1,7 +1,7 @@
 {
   "asn": 5602,
-  "handle": "IRIDEOS-KP",
-  "description": "Retelit Digital Services S.p.A.",
+  "handle": "AS-IRIDEOS-KP",
+  "description": "Retelit Digital Services S.p.A",
   "subnets": {
     "ipv4": [
       "52.144.64.0/19",

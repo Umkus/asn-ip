@@ -1,7 +1,7 @@
 {
   "asn": 39485,
-  "handle": "NORTHWEST",
-  "description": "Northwest Broadband Connect Ltd.",
+  "handle": "NORTHWEST-AS",
+  "description": "Northwest Broadband Connect Ltd",
   "subnets": {
     "ipv4": [
       "185.178.66.0/23",

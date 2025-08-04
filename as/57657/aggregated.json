@@ -1,7 +1,7 @@
 {
   "asn": 57657,
-  "handle": "NICOM",
-  "description": "Nicom Wireless Kft.",
+  "handle": "NICOM-AS",
+  "description": "Nicom Wireless Kft",
   "subnets": {
     "ipv4": [
       "37.17.160.0/23",

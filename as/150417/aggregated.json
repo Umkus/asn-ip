@@ -1,6 +1,6 @@
 {
   "asn": 150417,
-  "handle": "MANUHOST-AP",
+  "handle": "MANUHOST-AS-AP",
   "description": "Manu Host",
   "subnets": {
     "ipv4": [

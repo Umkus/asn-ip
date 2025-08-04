@@ -1,7 +1,7 @@
 {
   "asn": 15969,
-  "handle": "SYSTEMIA",
-  "description": "Systemia.pl Sp. z o.o.",
+  "handle": "SYSTEMIA-AS",
+  "description": "Systemia.pl Sp. z o.o",
   "subnets": {
     "ipv4": [
       "45.86.212.0/22",

@@ -1,7 +1,7 @@
 {
   "asn": 10066,
-  "handle": "GAYANET",
-  "description": "LG HelloVision Corp.",
+  "handle": "GAYANET-AS",
+  "description": "LG HelloVision Corp",
   "subnets": {
     "ipv4": [
       "1.176.128.0/17",

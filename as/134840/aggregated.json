@@ -1,7 +1,7 @@
 {
   "asn": 134840,
-  "handle": "MCCL-AP",
-  "description": "Myanmar Country Co., Ltd.",
+  "handle": "MCCL-AS-AP",
+  "description": "Myanmar Country Co. Ltd",
   "subnets": {
     "ipv4": [
       "103.57.204.0/22",

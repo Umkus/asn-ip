@@ -1,7 +1,7 @@
 {
   "asn": 44062,
-  "handle": "TESENE",
-  "description": "Tesecom S.r.l.",
+  "handle": "TESENE-AS",
+  "description": "Tesecom S.r.l",
   "subnets": {
     "ipv4": [],
     "ipv6": []

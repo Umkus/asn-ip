@@ -1,7 +1,7 @@
 {
   "asn": 9944,
-  "handle": "LGESHOP",
-  "description": "LG Home shopping Inc.",
+  "handle": "LGESHOP-AS",
+  "description": "LG Home shopping Inc",
   "subnets": {
     "ipv4": [
       "58.151.31.0/24"

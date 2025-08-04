@@ -1,4 +1,4 @@
-# AS137005 (UMK-AP)
+# AS137005 (UMK-AS-AP)
 # Universiti Malaysia Kelantan
 #
 103.101.244.0/22

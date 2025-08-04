@@ -1,7 +1,7 @@
 {
   "asn": 209402,
-  "handle": "BIC-FVG",
-  "description": "BIC INCUBATORI FVG S.R.L.",
+  "handle": "BIC-FVG-AS",
+  "description": "BIC INCUBATORI FVG S.R.L",
   "subnets": {
     "ipv4": [
       "193.104.250.0/24"

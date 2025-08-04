@@ -1,13 +1,11 @@
 {
   "asn": 153688,
-  "handle": "NNO-AP",
+  "handle": "NNO-AS-AP",
   "description": "Ninja Network online",
   "subnets": {
     "ipv4": [
       "163.223.74.0/23"
     ],
-    "ipv6": [
-      "2001:df5:36c0::/48"
-    ]
+    "ipv6": []
   }
 }

@@ -1,7 +1,7 @@
 {
   "asn": 59502,
-  "handle": "SO",
-  "description": "Sozvezdiye Oriona Ltd.",
+  "handle": "SO-AS",
+  "description": "Sozvezdiye Oriona Ltd",
   "subnets": {
     "ipv4": [
       "176.122.248.0/21"

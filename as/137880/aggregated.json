@@ -1,6 +1,6 @@
 {
   "asn": 137880,
-  "handle": "PRIME-AP",
+  "handle": "PRIME-AS-AP",
   "description": "Prime Network Pvt.ltd",
   "subnets": {
     "ipv4": [

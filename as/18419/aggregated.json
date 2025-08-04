@@ -1,7 +1,7 @@
 {
   "asn": 18419,
-  "handle": "DADA-TW",
-  "description": "DaDa Broadband LTD.",
+  "handle": "DADA-AS-TW",
+  "description": "DaDa Broadband LTD",
   "subnets": {
     "ipv4": [
       "39.1.96.0/20",

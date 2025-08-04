@@ -1,3 +1,3 @@
-# AS61433 (SFERANET)
-# Region plus Ltd.
+# AS61433 (SFERANET-AS)
+# Region plus Ltd
 #

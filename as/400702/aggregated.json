@@ -1,7 +1,7 @@
 {
   "asn": 400702,
-  "handle": "INVERDIGM",
-  "description": "Inverdigm Inc.",
+  "handle": "AS-INVERDIGM",
+  "description": "Inverdigm Inc",
   "subnets": {
     "ipv4": [
       "74.118.38.0/23",

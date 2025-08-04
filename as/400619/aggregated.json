@@ -1,7 +1,7 @@
 {
   "asn": 400619,
-  "handle": "AROSS",
-  "description": "AROSSCLOUD INC.",
+  "handle": "AROSS-AS",
+  "description": "AROSSCLOUD INC",
   "subnets": {
     "ipv4": [
       "14.192.4.0/22",

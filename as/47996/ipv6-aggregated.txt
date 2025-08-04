@@ -1,3 +1,3 @@
-# AS47996 (STELS-COMMUNICATIONS)
-# Kommunikatsyi Stels Ltd.
+# AS47996 (STELS-COMMUNICATIONS-AS)
+# Kommunikatsyi Stels Ltd
 #

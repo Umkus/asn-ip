@@ -1,7 +1,7 @@
 {
   "asn": 141286,
-  "handle": "PIXEL",
-  "description": "Pixelrevs Pvt. Ltd.",
+  "handle": "PIXEL-AS",
+  "description": "Pixelrevs Pvt. Ltd",
   "subnets": {
     "ipv4": [],
     "ipv6": []

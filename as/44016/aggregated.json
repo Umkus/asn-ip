@@ -1,7 +1,7 @@
 {
   "asn": 44016,
-  "handle": "XSUSENET",
-  "description": "LayerSwitch B.V.",
+  "handle": "XSUSENET-AS",
+  "description": "LayerSwitch B.V",
   "subnets": {
     "ipv4": [
       "45.91.110.0/23",

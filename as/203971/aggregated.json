@@ -1,7 +1,7 @@
 {
   "asn": 203971,
-  "handle": "AZFIBERNET",
-  "description": "AzFiberNet Ltd.",
+  "handle": "AZFIBERNET-ASN",
+  "description": "AzFiberNet Ltd",
   "subnets": {
     "ipv4": [
       "185.93.91.0/24",

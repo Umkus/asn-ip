@@ -1,7 +1,7 @@
 {
   "asn": 152844,
-  "handle": "TDMCBL-AP",
-  "description": "The Dhaka Mercantile Co-Operative Bank Ltd.",
+  "handle": "TDMCBL-AS-AP",
+  "description": "The Dhaka Mercantile Co-Operative Bank Ltd",
   "subnets": {
     "ipv4": [
       "103.154.132.0/23"

@@ -1,7 +1,7 @@
 {
   "asn": 34430,
-  "handle": "QORE",
-  "description": "Odido Netherlands B.V.",
+  "handle": "QORE-AS",
+  "description": "Odido Netherlands B.V",
   "subnets": {
     "ipv4": [
       "37.220.144.0/23",

@@ -1,3 +1,3 @@
-# AS210166 (YOUTEL)
-# YouTel Communications Ltd.
+# AS210166 (YOUTEL-AS)
+# YouTel Communications Ltd
 #

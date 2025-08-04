@@ -1,7 +1,7 @@
 {
   "asn": 138787,
-  "handle": "SPEEDKNG",
-  "description": "Speedking Infotech Pvt. Ltd.",
+  "handle": "SPEEDKNG-AS",
+  "description": "Speedking Infotech Pvt. Ltd",
   "subnets": {
     "ipv4": [
       "103.113.252.0/22",

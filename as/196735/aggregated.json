@@ -1,7 +1,7 @@
 {
   "asn": 196735,
-  "handle": "JONCZ",
-  "description": "JON.CZ s.r.o.",
+  "handle": "AS-JONCZ",
+  "description": "JON.CZ s.r.o",
   "subnets": {
     "ipv4": [
       "185.144.176.0/22",

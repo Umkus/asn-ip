@@ -1,4 +1,4 @@
-# AS1064 (RIVULET)
-# Rivulet Wireless Inc.
+# AS1064 (AS-RIVULET)
+# Rivulet Wireless Inc
 #
 192.76.164.0/24

@@ -1,7 +1,7 @@
 {
   "asn": 4318,
-  "handle": "ADC",
-  "description": "Freeport-McMoRan Inc.",
+  "handle": "ADC-ASN",
+  "description": "Freeport-McMoRan Inc",
   "subnets": {
     "ipv4": [],
     "ipv6": []

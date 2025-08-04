@@ -1,7 +1,7 @@
 {
   "asn": 45398,
-  "handle": "HINETWORKS",
-  "description": "HiLine Internet Service Inc.",
+  "handle": "HINETWORKS-AS",
+  "description": "HiLine Internet Service Inc",
   "subnets": {
     "ipv4": [
       "211.254.32.0/24"

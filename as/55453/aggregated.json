@@ -1,6 +1,6 @@
 {
   "asn": 55453,
-  "handle": "SKYTELECOM-PK",
+  "handle": "SKYTELECOM-AS-PK",
   "description": "Sky Telecom",
   "subnets": {
     "ipv4": [

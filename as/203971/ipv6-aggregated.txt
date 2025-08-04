@@ -1,4 +1,4 @@
-# AS203971 (AZFIBERNET)
-# AzFiberNet Ltd.
+# AS203971 (AZFIBERNET-ASN)
+# AzFiberNet Ltd
 #
 2a06:91c0::/29

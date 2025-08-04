@@ -1,5 +1,5 @@
-# AS30336 (XITTEL)
-# Telecommunications Xittel inc.
+# AS30336 (XITTEL-AS)
+# Telecommunications Xittel inc
 #
 66.119.128.0/20
 69.196.16.0/20

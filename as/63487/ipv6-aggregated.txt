@@ -1,3 +1,3 @@
-# AS63487 (FELLOWES)
-# Fellowes Inc.
+# AS63487 (FELLOWES-ASN)
+# Fellowes Inc
 #

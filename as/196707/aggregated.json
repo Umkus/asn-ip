@@ -1,7 +1,7 @@
 {
   "asn": 196707,
-  "handle": "CLOS",
-  "description": "Clos Brothers Sp. z o.o.",
+  "handle": "CLOS-AS",
+  "description": "Clos Brothers Sp. z o.o",
   "subnets": {
     "ipv4": [
       "91.213.238.0/24"

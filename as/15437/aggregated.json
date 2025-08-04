@@ -1,7 +1,7 @@
 {
   "asn": 15437,
-  "handle": "KJWS",
-  "description": "CESENA NET S.R.L.",
+  "handle": "ASN-KJWS",
+  "description": "CESENA NET S.R.L",
   "subnets": {
     "ipv4": [],
     "ipv6": []

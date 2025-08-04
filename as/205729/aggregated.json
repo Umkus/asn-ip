@@ -1,7 +1,7 @@
 {
   "asn": 205729,
-  "handle": "AGSM",
-  "description": "AGSM AIM S.p.A.",
+  "handle": "AGSM-AS",
+  "description": "AGSM AIM S.p.A",
   "subnets": {
     "ipv4": [
       "149.62.32.0/24"

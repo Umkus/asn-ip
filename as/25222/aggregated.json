@@ -1,7 +1,7 @@
 {
   "asn": 25222,
-  "handle": "ISOL",
-  "description": "Inmarsat Solutions B.V.",
+  "handle": "AS-ISOL",
+  "description": "Inmarsat Solutions B.V",
   "subnets": {
     "ipv4": [
       "68.67.0.0/22",

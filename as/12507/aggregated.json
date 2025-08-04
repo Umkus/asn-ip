@@ -1,7 +1,7 @@
 {
   "asn": 12507,
-  "handle": "SWIFT-TRACE",
-  "description": "Swift Trace ltd.",
+  "handle": "SWIFT-TRACE-AS",
+  "description": "Swift Trace ltd",
   "subnets": {
     "ipv4": [
       "195.49.200.0/21"

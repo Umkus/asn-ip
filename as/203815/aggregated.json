@@ -1,7 +1,7 @@
 {
   "asn": 203815,
-  "handle": "NL-EXA",
-  "description": "Exa B.V.",
+  "handle": "NL-EXA-AS",
+  "description": "Exa B.V",
   "subnets": {
     "ipv4": [
       "185.155.76.0/22"

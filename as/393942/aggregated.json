@@ -1,7 +1,7 @@
 {
   "asn": 393942,
-  "handle": "WIREDISP-INC",
-  "description": "WiredISP Inc.",
+  "handle": "AS393942",
+  "description": "WiredISP Inc",
   "subnets": {
     "ipv4": [
       "31.56.238.0/24",

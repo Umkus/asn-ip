@@ -1,3 +1,3 @@
-# AS49442 (SONET)
-# Solar Network Ltd.
+# AS49442 (SONET-AS)
+# Solar Network Ltd
 #

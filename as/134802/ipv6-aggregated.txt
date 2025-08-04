@@ -1,4 +1,4 @@
-# AS134802 (NAICCABLETVCORP-AP)
-# Naic Cable TV Corp.
+# AS134802 (NAICCABLETVCORP-AS-AP)
+# Naic Cable TV Corp
 #
 2406:2dc0::/32

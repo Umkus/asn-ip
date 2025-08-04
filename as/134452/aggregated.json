@@ -1,7 +1,7 @@
 {
   "asn": 134452,
-  "handle": "SNAPDEAL-AP",
-  "description": "Jasper Infotech Pvt Ltd.",
+  "handle": "SNAPDEAL-AS-AP",
+  "description": "Jasper Infotech Pvt Ltd",
   "subnets": {
     "ipv4": [],
     "ipv6": []

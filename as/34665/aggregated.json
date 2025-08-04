@@ -1,7 +1,7 @@
 {
   "asn": 34665,
-  "handle": "PINDC",
-  "description": "Petersburg Internet Network ltd.",
+  "handle": "PINDC-AS",
+  "description": "Petersburg Internet Network ltd",
   "subnets": {
     "ipv4": [
       "5.8.8.0/21",
@@ -93,9 +93,6 @@
       "2a0f:16c0::/29",
       "2a11:4b41::/32",
       "2a12:c304::/30",
-      "2a13:2980::/29",
-      "2a13:3b80::/29",
-      "2a13:8580::/29",
       "2a13:93c1::/32"
     ]
   }

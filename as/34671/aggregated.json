@@ -1,7 +1,7 @@
 {
   "asn": 34671,
-  "handle": "TOMSKNEFTEHIM",
-  "description": "Tomskneftehim Ltd.",
+  "handle": "TOMSKNEFTEHIM-AS",
+  "description": "Tomskneftehim Ltd",
   "subnets": {
     "ipv4": [
       "91.193.88.0/23"

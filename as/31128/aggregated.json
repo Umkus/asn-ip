@@ -1,7 +1,7 @@
 {
   "asn": 31128,
-  "handle": "SHAZAM",
-  "description": "APPLE DISTRIBUTION INTERNATIONAL LTD.",
+  "handle": "SHAZAM-AS",
+  "description": "APPLE DISTRIBUTION INTERNATIONAL LTD",
   "subnets": {
     "ipv4": [
       "139.178.192.0/22",

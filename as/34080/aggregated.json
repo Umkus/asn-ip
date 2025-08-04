@@ -1,7 +1,7 @@
 {
   "asn": 34080,
-  "handle": "MIRAMO",
-  "description": "MIRAMO spol. s.r.o.",
+  "handle": "MIRAMO-AS",
+  "description": "MIRAMO spol. s.r.o",
   "subnets": {
     "ipv4": [
       "45.129.24.0/22",

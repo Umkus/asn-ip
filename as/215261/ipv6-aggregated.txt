@@ -1,4 +1,4 @@
-# AS215261 (VIPY)
-# ByteFly Kft.
+# AS215261 (VIPY-AS)
+# ByteFly Kft
 #
 2001:67c:fac::/48

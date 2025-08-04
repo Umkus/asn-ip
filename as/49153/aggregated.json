@@ -1,7 +1,7 @@
 {
   "asn": 49153,
-  "handle": "KMK-TELECOM",
-  "description": "Nauchnye Razvlechenia Ltd.",
+  "handle": "KMK-TELECOM-AS",
+  "description": "Nauchnye Razvlechenia Ltd",
   "subnets": {
     "ipv4": [
       "195.88.184.0/23"

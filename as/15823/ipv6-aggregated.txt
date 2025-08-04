@@ -1,3 +1,3 @@
-# AS15823 (RADWARE)
-# Radware Ltd.
+# AS15823 (RADWARE-AS)
+# Radware Ltd
 #

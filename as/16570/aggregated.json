@@ -1,7 +1,7 @@
 {
   "asn": 16570,
-  "handle": "TELOIP-SW",
-  "description": "AgniCorp Inc.",
+  "handle": "TELOIP-SW-ASN",
+  "description": "AgniCorp Inc",
   "subnets": {
     "ipv4": [
       "164.153.184.0/23",

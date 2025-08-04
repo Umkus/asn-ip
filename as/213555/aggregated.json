@@ -1,7 +1,7 @@
 {
   "asn": 213555,
-  "handle": "ITH",
-  "description": "ITH Ltd.",
+  "handle": "ITH-AS",
+  "description": "ITH Ltd",
   "subnets": {
     "ipv4": [
       "45.132.130.0/24",

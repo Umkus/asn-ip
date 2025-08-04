@@ -1,7 +1,7 @@
 {
   "asn": 2288,
-  "handle": "OL",
-  "description": "Orange S.A.",
+  "handle": "OL-AS",
+  "description": "Orange S.A",
   "subnets": {
     "ipv4": [
       "90.84.28.0/23",

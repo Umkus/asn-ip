@@ -1,7 +1,7 @@
 {
   "asn": 213773,
-  "handle": "BLUEM",
-  "description": "Bluem B.V.",
+  "handle": "BLUEM-AS",
+  "description": "Bluem B.V",
   "subnets": {
     "ipv4": [
       "170.62.203.0/24"

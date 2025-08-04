@@ -1,7 +1,7 @@
 {
   "asn": 31447,
-  "handle": "SOFTRATING",
-  "description": "Soft-Rating Consult ltd.",
+  "handle": "SOFTRATING-AS",
+  "description": "Soft-Rating Consult ltd",
   "subnets": {
     "ipv4": [],
     "ipv6": []

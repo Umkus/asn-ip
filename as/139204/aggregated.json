@@ -1,7 +1,7 @@
 {
   "asn": 139204,
-  "handle": "RACITELCOM-AP",
-  "description": "RACITELCOM Inc.",
+  "handle": "RACITELCOM-AS-AP",
+  "description": "RACITELCOM Inc",
   "subnets": {
     "ipv4": [
       "103.170.126.0/24"

@@ -1,4 +1,4 @@
-# AS209267 (VELORUM)
-# Velorum B.V.
+# AS209267 (VELORUM-AS)
+# Velorum B.V
 #
 89.34.174.0/24

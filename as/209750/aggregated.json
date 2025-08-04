@@ -1,7 +1,7 @@
 {
   "asn": 209750,
-  "handle": "SKYBOX",
-  "description": "Skybox Security Ltd.",
+  "handle": "SKYBOX-AS",
+  "description": "Skybox Security Ltd",
   "subnets": {
     "ipv4": [],
     "ipv6": []

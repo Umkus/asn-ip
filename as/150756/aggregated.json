@@ -1,7 +1,7 @@
 {
   "asn": 150756,
-  "handle": "FLOPPY-TW",
-  "description": "Floppy Ltd.",
+  "handle": "FLOPPY-AS-TW",
+  "description": "Floppy Ltd",
   "subnets": {
     "ipv4": [
       "203.99.146.0/23"

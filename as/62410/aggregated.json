@@ -1,7 +1,7 @@
 {
   "asn": 62410,
-  "handle": "LINENET",
-  "description": "Linenet Ltd.",
+  "handle": "LINENET-AS",
+  "description": "Linenet Ltd",
   "subnets": {
     "ipv4": [
       "176.111.96.0/21",

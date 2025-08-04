@@ -1,6 +1,6 @@
 {
   "asn": 136774,
-  "handle": "FTS-AP",
+  "handle": "FTS-AS-AP",
   "description": "Fiber technology services",
   "subnets": {
     "ipv4": [

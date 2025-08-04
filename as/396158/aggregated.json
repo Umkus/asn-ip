@@ -1,7 +1,7 @@
 {
   "asn": 396158,
-  "handle": "HOSTCIRCLE",
-  "description": "HOSTCIRCLE INC.",
+  "handle": "AS-HOSTCIRCLE",
+  "description": "HOSTCIRCLE INC",
   "subnets": {
     "ipv4": [
       "206.130.5.0/24"

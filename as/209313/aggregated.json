@@ -1,7 +1,7 @@
 {
   "asn": 209313,
-  "handle": "INSVC",
-  "description": "Interservis Ltd.",
+  "handle": "INSVC-AS",
+  "description": "Interservis Ltd",
   "subnets": {
     "ipv4": [
       "94.25.30.0/24"

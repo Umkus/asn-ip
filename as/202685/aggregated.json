@@ -1,7 +1,7 @@
 {
   "asn": 202685,
-  "handle": "PFCLOUD",
-  "description": "Aggros Operations Ltd.",
+  "handle": "AS-PFCLOUD",
+  "description": "Aggros Operations Ltd",
   "subnets": {
     "ipv4": [],
     "ipv6": []

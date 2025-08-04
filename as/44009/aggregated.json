@@ -1,7 +1,7 @@
 {
   "asn": 44009,
-  "handle": "SLEEK",
-  "description": "Rackspace Ltd.",
+  "handle": "SLEEK-ASN",
+  "description": "Rackspace Ltd",
   "subnets": {
     "ipv4": [
       "166.86.128.0/22"

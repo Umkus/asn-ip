@@ -1,4 +1,4 @@
-# AS42295 (TBISS)
-# TBISS Ltd.
+# AS42295 (TBISS-AS)
+# TBISS Ltd
 #
 2001:67c:530::/48

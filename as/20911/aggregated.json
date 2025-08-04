@@ -1,7 +1,7 @@
 {
   "asn": 20911,
-  "handle": "NETSURF-BG",
-  "description": "Net-Surf.net Ltd.",
+  "handle": "NETSURF-AS-BG",
+  "description": "Net-Surf.net Ltd",
   "subnets": {
     "ipv4": [
       "45.90.90.0/23",

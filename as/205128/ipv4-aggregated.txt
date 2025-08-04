@@ -1,4 +1,4 @@
-# AS205128 (TRIXIR)
-# Phoenix Media Ltd.
+# AS205128 (TRIXIR-AS)
+# Phoenix Media Ltd
 #
 217.174.158.0/24

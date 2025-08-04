@@ -1,7 +1,7 @@
 {
   "asn": 140911,
-  "handle": "TCL-IN",
-  "description": "Tata Communications (CANADA) Ltd.",
+  "handle": "TCL-AS-IN",
+  "description": "Tata Communications (CANADA) Ltd",
   "subnets": {
     "ipv4": [
       "209.58.74.0/24"

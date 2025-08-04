@@ -1,7 +1,7 @@
 {
   "asn": 38839,
-  "handle": "CSPTEK-TW",
-  "description": "CSPTEK LTD. CO.",
+  "handle": "CSPTEK-AS-TW",
+  "description": "CSPTEK LTD. CO",
   "subnets": {
     "ipv4": [],
     "ipv6": [

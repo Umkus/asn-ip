@@ -1,7 +1,7 @@
 {
   "asn": 42702,
-  "handle": "DICS",
-  "description": "DonbassInformCommunicationService Ltd.",
+  "handle": "DICS-AS",
+  "description": "DonbassInformCommunicationService Ltd",
   "subnets": {
     "ipv4": [],
     "ipv6": []

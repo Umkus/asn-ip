@@ -1,7 +1,7 @@
 {
   "asn": 196912,
-  "handle": "ACH",
-  "description": "ACH Invest d.o.o.",
+  "handle": "ACH-AS",
+  "description": "ACH Invest d.o.o",
   "subnets": {
     "ipv4": [],
     "ipv6": []

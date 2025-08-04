@@ -1,7 +1,7 @@
 {
   "asn": 34224,
-  "handle": "NETERRA",
-  "description": "Neterra Ltd.",
+  "handle": "NETERRA-AS",
+  "description": "Neterra Ltd",
   "subnets": {
     "ipv4": [
       "31.13.195.0/24",

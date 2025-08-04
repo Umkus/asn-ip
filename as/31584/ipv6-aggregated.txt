@@ -1,3 +1,3 @@
-# AS31584 (CASCO)
-# Akzo Nobel Nederland B.V.
+# AS31584 (CASCO-AS)
+# Akzo Nobel Nederland B.V
 #

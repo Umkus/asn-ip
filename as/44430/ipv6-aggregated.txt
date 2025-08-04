@@ -1,3 +1,3 @@
-# AS44430 (MARCOM-EKO)
-# MaRcom-Eko s.r.o.
+# AS44430 (MARCOM-EKO-AS)
+# MaRcom-Eko s.r.o
 #

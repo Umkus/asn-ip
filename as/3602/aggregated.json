@@ -1,7 +1,7 @@
 {
   "asn": 3602,
-  "handle": "ROGERS-COM",
-  "description": "Rogers Communications Canada Inc.",
+  "handle": "AS3602-ROGERS-COM",
+  "description": "Rogers Communications Canada Inc",
   "subnets": {
     "ipv4": [],
     "ipv6": []

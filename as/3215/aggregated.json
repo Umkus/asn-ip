@@ -1,7 +1,7 @@
 {
   "asn": 3215,
-  "handle": "ORANGE-SA",
-  "description": "Orange S.A.",
+  "handle": "AS3215",
+  "description": "Orange S.A",
   "subnets": {
     "ipv4": [
       "2.3.0.0/16",

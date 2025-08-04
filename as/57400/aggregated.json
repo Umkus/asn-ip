@@ -1,7 +1,7 @@
 {
   "asn": 57400,
-  "handle": "INTERVIA",
-  "description": "Van Veen Beheer B.V.",
+  "handle": "INTERVIA-AS",
+  "description": "Van Veen Beheer B.V",
   "subnets": {
     "ipv4": [],
     "ipv6": [

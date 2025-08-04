@@ -1,5 +1,5 @@
-# AS134809 (VIEWQWEST-AP)
-# ViewQwest Sdn. Bhd.
+# AS134809 (VIEWQWEST-AS-AP)
+# ViewQwest Sdn. Bhd
 #
 43.228.200.0/22
 43.252.216.0/22

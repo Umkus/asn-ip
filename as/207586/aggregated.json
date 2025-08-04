@@ -1,7 +1,7 @@
 {
   "asn": 207586,
-  "handle": "DOYLE",
-  "description": "Doyle (North West) Ltd.",
+  "handle": "DOYLE-AS",
+  "description": "Doyle (North West) Ltd",
   "subnets": {
     "ipv4": [],
     "ipv6": []

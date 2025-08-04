@@ -1,7 +1,7 @@
 {
   "asn": 60470,
-  "handle": "COUNTRYONLINE",
-  "description": "SkyNet Ltd.",
+  "handle": "COUNTRYONLINE-AS",
+  "description": "SkyNet Ltd",
   "subnets": {
     "ipv4": [
       "185.88.156.0/22"

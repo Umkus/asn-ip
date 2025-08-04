@@ -1,6 +1,6 @@
 {
   "asn": 133496,
-  "handle": "MOHITECH-AP",
+  "handle": "MOHITECH-AS-AP",
   "description": "Mohi Tech",
   "subnets": {
     "ipv4": [

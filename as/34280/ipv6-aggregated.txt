@@ -1,3 +1,3 @@
-# AS34280 (INTELCOM)
-# Intelcom Ltd.
+# AS34280 (INTELCOM-AS)
+# Intelcom Ltd
 #

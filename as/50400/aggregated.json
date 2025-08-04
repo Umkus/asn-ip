@@ -1,7 +1,7 @@
 {
   "asn": 50400,
-  "handle": "SIBSFERA",
-  "description": "Sibsfera Ltd.",
+  "handle": "SIBSFERA-AS",
+  "description": "Sibsfera Ltd",
   "subnets": {
     "ipv4": [
       "93.171.239.0/24"

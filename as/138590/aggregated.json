@@ -1,6 +1,6 @@
 {
   "asn": 138590,
-  "handle": "PRIMENETWORKS-AP",
+  "handle": "PRIMENETWORKS-AS-AP",
   "description": "Prime Networks",
   "subnets": {
     "ipv4": [

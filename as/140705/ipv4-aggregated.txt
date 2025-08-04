@@ -1,4 +1,4 @@
-# AS140705 (GRASP1-AP)
-# Grasp Pharmaceuticals Ltd.
+# AS140705 (GRASP1-AS-AP)
+# Grasp Pharmaceuticals Ltd
 #
 103.152.10.0/23

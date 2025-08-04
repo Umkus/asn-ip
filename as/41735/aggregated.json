@@ -1,7 +1,7 @@
 {
   "asn": 41735,
-  "handle": "ALBARATURK",
-  "description": "Albaraka Turk Katilim Bankasi A.S.",
+  "handle": "ALBARATURK-AS",
+  "description": "Albaraka Turk Katilim Bankasi A.S",
   "subnets": {
     "ipv4": [
       "185.46.69.0/24",

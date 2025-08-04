@@ -1,7 +1,7 @@
 {
   "asn": 205713,
-  "handle": "PL-PEP",
-  "description": "Centrum Rozliczen Elektronicznych Polskie ePlatnosci S.A.",
+  "handle": "PL-PEP-AS",
+  "description": "Centrum Rozliczen Elektronicznych Polskie ePlatnosci S.A",
   "subnets": {
     "ipv4": [
       "155.133.79.0/24",

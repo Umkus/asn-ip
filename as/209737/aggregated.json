@@ -1,7 +1,7 @@
 {
   "asn": 209737,
-  "handle": "MERIC-INTERNET-TEKNOLOJILERI",
-  "description": "Meric Internet Teknolojileri A.S.",
+  "handle": "AS209737",
+  "description": "Meric Internet Teknolojileri A.S",
   "subnets": {
     "ipv4": [
       "5.133.101.0/24",

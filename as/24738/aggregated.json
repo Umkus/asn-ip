@@ -1,7 +1,7 @@
 {
   "asn": 24738,
-  "handle": "DELTAVISTA",
-  "description": "CRIF Sp. z o. o.",
+  "handle": "ASN-DELTAVISTA",
+  "description": "CRIF Sp. z o. o",
   "subnets": {
     "ipv4": [],
     "ipv6": []

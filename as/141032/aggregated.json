@@ -1,7 +1,7 @@
 {
   "asn": 141032,
-  "handle": "NEPALINK-AP",
-  "description": "Nepalink Communication Pvt. Ltd.",
+  "handle": "NEPALINK-AS-AP",
+  "description": "Nepalink Communication Pvt. Ltd",
   "subnets": {
     "ipv4": [
       "103.155.22.0/23"

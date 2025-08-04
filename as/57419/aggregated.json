@@ -1,7 +1,7 @@
 {
   "asn": 57419,
-  "handle": "LLCFLEX-TR",
-  "description": "FLEX TR Bilisim Sanayi Ticaret Ltd. Sti.",
+  "handle": "LLCFLEX-AS-TR",
+  "description": "FLEX TR Bilisim Sanayi Ticaret Ltd. Sti",
   "subnets": {
     "ipv4": [
       "91.199.204.0/24",

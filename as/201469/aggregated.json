@@ -1,7 +1,7 @@
 {
   "asn": 201469,
-  "handle": "VINKU",
-  "description": "Concept Ltd.",
+  "handle": "VINKU-AS",
+  "description": "Concept Ltd",
   "subnets": {
     "ipv4": [
       "31.148.21.0/24",

@@ -1,7 +1,7 @@
 {
   "asn": 151605,
-  "handle": "SACOMTELLDA-AP",
-  "description": "Sacomtel Lda.",
+  "handle": "SACOMTELLDA-AS-AP",
+  "description": "Sacomtel Lda",
   "subnets": {
     "ipv4": [],
     "ipv6": []

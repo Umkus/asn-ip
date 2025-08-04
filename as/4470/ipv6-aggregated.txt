@@ -1,3 +1,3 @@
-# AS4470 (CITENET)
-# Citenet Telecom Inc.
+# AS4470 (ASN-CITENET)
+# Citenet Telecom Inc
 #

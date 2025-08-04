@@ -1,7 +1,7 @@
 {
   "asn": 48574,
-  "handle": "CZ-PLANET-A",
-  "description": "T-Mobile Czech Republic a.s.",
+  "handle": "ASN-CZ-PLANET-A-48574",
+  "description": "T-Mobile Czech Republic a.s",
   "subnets": {
     "ipv4": [
       "109.238.208.0/20",

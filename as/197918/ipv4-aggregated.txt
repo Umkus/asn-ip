@@ -1,4 +1,4 @@
-# AS197918 (MEXEM)
-# Mexem sp. z o.o.
+# AS197918 (ASN-MEXEM)
+# Mexem sp. z o.o
 #
 91.229.193.0/24

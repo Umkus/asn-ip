@@ -1,3 +1,3 @@
-# AS136291 (MPSEDC-IN)
-# Madhya Pradesh State Electronics Development Corporation Ltd.
+# AS136291 (MPSEDC-AS-IN)
+# Madhya Pradesh State Electronics Development Corporation Ltd
 #

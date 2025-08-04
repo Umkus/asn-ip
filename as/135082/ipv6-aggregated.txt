@@ -1,3 +1,3 @@
-# AS135082 (LVS-AP)
-# Labvantage Solutions Pvt. Ltd.
+# AS135082 (LVS-AS-AP)
+# Labvantage Solutions Pvt. Ltd
 #

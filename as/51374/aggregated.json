@@ -1,7 +1,7 @@
 {
   "asn": 51374,
-  "handle": "UNICORN-SYSTEMS",
-  "description": "Unicorn Systems ltd.",
+  "handle": "UNICORN-SYSTEMS-AS",
+  "description": "Unicorn Systems ltd",
   "subnets": {
     "ipv4": [
       "88.203.187.0/24",

@@ -1,7 +1,7 @@
 {
   "asn": 43293,
-  "handle": "PROXILITY",
-  "description": "Proxility B.V.",
+  "handle": "PROXILITY-AS",
+  "description": "Proxility B.V",
   "subnets": {
     "ipv4": [
       "77.93.64.0/20"

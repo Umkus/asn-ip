@@ -1,7 +1,7 @@
 {
   "asn": 137635,
-  "handle": "JSKY",
-  "description": "J.sky Media Pvt.ltd.",
+  "handle": "JSKY-AS",
+  "description": "J.sky Media Pvt.ltd",
   "subnets": {
     "ipv4": [],
     "ipv6": []

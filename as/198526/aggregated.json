@@ -1,7 +1,7 @@
 {
   "asn": 198526,
-  "handle": "GAZ-IS",
-  "description": "Gazinformservice Ltd.",
+  "handle": "GAZ-IS-AS",
+  "description": "Gazinformservice Ltd",
   "subnets": {
     "ipv4": [],
     "ipv6": []

@@ -1,5 +1,5 @@
-# AS8632 (LOL)
-# Luxembourg Online S.A.
+# AS8632 (LOL-AS)
+# Luxembourg Online S.A
 #
 31.172.144.0/21
 83.222.32.0/19

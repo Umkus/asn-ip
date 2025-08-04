@@ -1,7 +1,7 @@
 {
   "asn": 202533,
-  "handle": "VIBORS",
-  "description": "MC Vybor Ltd.",
+  "handle": "VIBORS-AS",
+  "description": "MC Vybor Ltd",
   "subnets": {
     "ipv4": [
       "146.120.20.0/24"

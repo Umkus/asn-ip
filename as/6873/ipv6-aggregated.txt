@@ -1,3 +1,3 @@
-# AS6873 (LIBRUM)
-# Librum Sp. z o.o.
+# AS6873 (LIBRUM-AS)
+# Librum Sp. z o.o
 #

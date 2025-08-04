@@ -1,7 +1,7 @@
 {
   "asn": 43321,
-  "handle": "SATELCOM-SERVICE",
-  "description": "Satelcom-Service Ltd.",
+  "handle": "SATELCOM-SERVICE-AS",
+  "description": "Satelcom-Service Ltd",
   "subnets": {
     "ipv4": [
       "195.149.196.0/24"

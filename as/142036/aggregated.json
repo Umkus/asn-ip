@@ -1,7 +1,7 @@
 {
   "asn": 142036,
-  "handle": "HOSTEONS-AP",
-  "description": "Hosteons Pte. Ltd.",
+  "handle": "HOSTEONS-AS-AP",
+  "description": "Hosteons Pte. Ltd",
   "subnets": {
     "ipv4": [
       "14.102.237.0/24",
