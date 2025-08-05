@@ -3,8 +3,11 @@
   "handle": "SERVOSPHERE-TURKEY",
   "description": "SERVOSPHERE",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "31.56.87.0/24"
+    ],
     "ipv6": [
+      "2602:f697:5::/48",
       "2602:f697:80::/42"
     ]
   }

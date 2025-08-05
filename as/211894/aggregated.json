@@ -1,9 +1,14 @@
 {
   "asn": 211894,
-  "handle": "PLACEX",
+  "handle": "PLACE18",
   "description": "ungleich GmbH",
   "subnets": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [
+      "185.116.114.0/24"
+    ],
+    "ipv6": [
+      "2a0a:5480:1ac::/48",
+      "2a0a:5480:ab7::/48"
+    ]
   }
 }
