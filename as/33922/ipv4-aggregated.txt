@@ -1,6 +1,7 @@
 # AS33922 (NTT-LT-AS)
 # UAB Nacionalinis Telekomunikaciju Tinklas
 #
+45.13.52.0/22
 84.32.0.0/22
 84.32.18.0/24
 84.32.37.0/24

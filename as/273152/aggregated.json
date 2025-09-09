@@ -4,7 +4,7 @@
   "description": "MARCO ANTONIO IXCOY VARGAS",
   "subnets": {
     "ipv4": [
-      "38.190.0.0/24"
+      "38.190.0.0/23"
     ],
     "ipv6": []
   }
